@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg482958"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Phonetics.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:krita="http://krita.org/namespaces/svg/krita">
+  <sodipodi:namedview
+     id="namedview482960"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.28"
+     inkscape:cx="4309.7656"
+     inkscape:cy="17833.984"
+     inkscape:window-width="1920"
+     inkscape:window-height="1047"
+     inkscape:window-x="-10"
+     inkscape:window-y="-10"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs482955">
+    <symbol
+       id="O1">
+      <path
+         id="path172461"
+         fill="none"
+         stroke="#000000"
+         stroke-width="38.0352"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 700.98733,-1061.985 c 160.71083,187.39105 539.15187,107.93915 596.37297,10.453" />
+      <path
+         id="path172463"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="38.0352"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 1249.3948,-1331.9949 c -56.5401,-147.1747 -190.7255,-235.4238 -239.7205,-219.4328 -110.54534,4.0654 -192.07357,107.1091 -239.72247,219.4328 48.0611,117.1922 109.66803,161.3107 249.13067,207.2848 132.3953,-42.9758 187.9078,-95.0898 230.3123,-207.2848 z" />
+      <text
+         id="text172477"
+         krita:useRichText="true"
+         transform="scale(1.1793523,0.84792305)"
+         fill="#000000"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         font-family="'8514oem'"
+         font-size="177.184px"
+         font-size-adjust="1"
+         font-stretch="normal"
+         letter-spacing="0"
+         word-spacing="0"
+         x="814.95294"
+         y="-2070.7192"><tspan
+           x="814.95294"
+           id="tspan172475"
+           style="stroke-width:0">o</tspan></text>
+    </symbol>
+    <symbol
+       id="O2">
+      <path
+         id="path172467"
+         fill="none"
+         stroke="#000000"
+         stroke-width="34.9069"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 1853.2797,-1092.0711 c 153.0332,165.75273 513.395,95.47523 567.8824,9.246" />
+      <path
+         id="path172469"
+         fill="none"
+         stroke="#000000"
+         stroke-width="34.9069"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 1846.093,-1577.1535 c 153.0332,-165.7527 513.395,-95.4752 567.8824,-9.246" />
+      <path
+         id="path172471"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="34.9069"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 2368.4922,-1336.9514 c -53.8391,-130.1802 -181.614,-208.239 -228.2684,-194.0946 -105.2643,3.596 -182.8977,94.7411 -228.2702,194.0946 45.7651,103.6599 104.4288,142.6839 237.2289,183.3493 126.0704,-38.0133 178.9309,-84.1096 219.3097,-183.3493 z" />
+      <text
+         id="text172477-2"
+         krita:useRichText="true"
+         transform="scale(1.1793523,0.84792305)"
+         fill="#000000"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         font-family="'8514oem'"
+         font-size="177.184px"
+         font-size-adjust="1"
+         font-stretch="normal"
+         letter-spacing="0"
+         word-spacing="0"
+         x="1774.0225"
+         y="-2176.6812"><tspan
+           x="1774.0225"
+           id="tspan172475-4"
+           style="stroke-width:0">o</tspan></text>
+    </symbol>
+    <symbol
+       id="L_N">
+      <path
+         id="path172554"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.1802"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 1340.121,-348.98508 c 98.6094,82.5162 203.2693,43.9654 331.3867,55.9054 97.6344,0.6225 293.0842,-3.6273 352.7274,-47.797 52.184,-52.4356 -71.9771,175.876 -142.3203,288.0094 -26.0007,50.846 -384.3504,38.6783 -412.5775,-6.8523 -53.2845,-59.1157 -183.727,-350.3009 -129.2163,-289.2655 z" />
+      <path
+         id="shape116"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.1802"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 1355.9737,-284.82518 c 4.0338,-3.0231 60.1344,25.3192 66.2266,29.3614 10.5139,6.9762 17.8779,20.1817 25.8789,25.6959 9.0232,6.2188 12.1334,-29.8845 23.342,-25.1919 68.4397,28.6527 304.1895,9.9037 398.5916,9.875 12.5724,4.8973 7.2563,14.3319 29.957,25.732 0.9894,-3.9571 12.344,-20.698 25.4746,-32.4205 16.7198,-4.9535 67.9008,-25.5483 77.9022,-27.5531" />
+      <path
+         id="shape310"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.1802"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 1305.2597,-340.52938 c -2.0566,-18.379 59.4144,-37.9101 40.7907,-37.9101" />
+      <path
+         id="path172558"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.1802"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 2060.6372,-343.06298 c 2.0567,-18.379 -59.4144,-37.9101 -40.7907,-37.9101" />
+      <path
+         id="shape0113"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.1802"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 1486.6021,-55.74548 c 108.0719,-86.1041 188.0684,-93.5836 241.194,-163.0996 76.0727,-59.9124 128.5387,-30.3437 130.7865,24.3533 8.7566,71.4102 -21.3713,91.7962 -91.7541,163.5663" />
+      <path
+         id="path172561"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.1802"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 1649.6526,-25.36568 c 55.4246,-19.3863 182.9923,-142.2062 128.8995,-119.4109" />
+      <text
+         id="shape40"
+         krita:useRichText="true"
+         transform="scale(1.0035534,0.99645918)"
+         fill="#000000"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         font-family="'8514oem'"
+         font-size="134.835px"
+         font-size-adjust="1"
+         font-stretch="normal"
+         letter-spacing="0"
+         word-spacing="0"
+         x="1388.1147"
+         y="-436.7179"><tspan
+           x="1388.1147"
+           id="tspan172564"
+           style="stroke-width:0">L/N</tspan></text>
+    </symbol>
+    <symbol
+       id="W_R">
+      <path
+         id="path172515"
+         fill="none"
+         stroke="#000000"
+         stroke-width="29.4665"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 4461.8098,-1159.0412 c -116.5358,-56.5989 -129.1632,-259.801 -236.3259,-259.801 -107.1615,0 -96.6316,118.9449 -248.7752,256.6416 144.7444,107.9956 137.1439,230.7519 244.3054,230.7519 107.16,0 137.2107,-140.8713 240.7957,-227.5925 z" />
+      <path
+         id="path172517"
+         fill="none"
+         stroke="#000000"
+         stroke-width="29.4665"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 4030.9502,-932.7131 c 104.0567,173.7043 349.0888,100.0554 386.1382,9.6896" />
+      <path
+         id="path172519"
+         fill="none"
+         stroke="#000000"
+         stroke-width="29.4665"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 4026.0635,-1441.0661 c 104.0567,-173.7043 349.0888,-100.0554 386.1382,-9.6896" />
+      <path
+         id="path172521"
+         fill="none"
+         stroke="#000000"
+         stroke-width="29.4665"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 4102.9927,-1030.1474 c 63.9303,-96.0738 212.2139,-53.8275 234.2638,-3.3704" />
+      <text
+         id="text172526"
+         krita:useRichText="true"
+         transform="scale(0.99394321,1.0060937)"
+         fill="#000000"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         font-family="'8514oem'"
+         font-size="245.554px"
+         font-size-adjust="1"
+         font-stretch="normal"
+         letter-spacing="0"
+         word-spacing="0"
+         x="4079.2961"
+         y="-1657.0737"><tspan
+           x="4079.2961"
+           id="tspan172524"
+           style="stroke-width:0">W/R</tspan></text>
+    </symbol>
+    <symbol
+       id="E2">
+      <path
+         id="shape29"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 1724.0445,-522.8567 c 104.6431,50.9521 237.8263,43.3311 373.7831,50.7038 103.6086,0.3844 309.4939,-6.507 372.7867,-33.7809 55.377,-32.3779 -59.0873,87.0456 -136.6191,160.3094 -55.1833,62.7923 -140.1641,99.3667 -236.1676,98.0659 -85.6737,-1.16 -161.3819,-42.341 -226.0776,-98.0659 -56.5448,-36.5027 -205.5518,-214.9206 -147.7055,-177.2323 z" />
+      <path
+         id="shape30"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 1794.0748,-418.1008 c 9.539,-17.7802 37.577,9.0871 51.0221,17.7804 9.6001,6.2071 19.297,-28.8651 31.2224,-24.1813 72.815,28.5993 329.9372,10.522 430.376,10.4933 13.3758,4.8881 5.0096,9.707 29.1622,21.0858 1.0536,-3.9498 23.4148,-20.1003 41.2025,-25.0444 17.7895,-4.9442 19.8322,-3.316 30.4725,-5.317" />
+      <path
+         id="path172483"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 1924.6237,-314.6205 c 64.6255,-29.6292 300.0759,-49.8515 356.2967,9.2173" />
+      <path
+         id="path172485"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 1689.3695,-519.9432 c -2.1825,-18.3447 63.0498,-37.8394 43.2866,-37.8394" />
+      <path
+         id="path172487"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 2509.2444,-501.847 c 2.1825,-18.3447 -63.0498,-37.8394 -43.2866,-37.8394" />
+      <path
+         id="path172490"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 1987.3029,-214.0901 c 43.3096,57.6101 221.4401,39.8964 246.7462,3.6993" />
+      <path
+         id="path172492"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 1961.3205,-292.705 c 4.3572,12.6005 16.9217,-9.5142 23.6558,-15.4818 4.8084,-4.2611 8.9393,20.4967 14.859,17.3313 36.146,-19.3276 161.6923,-3.8782 210.8577,-2.787 6.6337,-3.2935 2.6234,-6.7702 14.6449,-14.5115 0.4475,2.7879 11.11,14.3795 19.7298,18.0446" />
+      <text
+         id="text172512-8"
+         krita:useRichText="true"
+         transform="scale(1.0347665,0.96640159)"
+         fill="#000000"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         font-family="'8514oem'"
+         font-size="138.77px"
+         font-size-adjust="1"
+         font-stretch="normal"
+         letter-spacing="0"
+         word-spacing="0"
+         x="2074.2319"
+         y="-659.95935"><tspan
+           x="2074.2319"
+           id="tspan172510-5"
+           style="stroke-width:0">E</tspan></text>
+    </symbol>
+    <symbol
+       id="E1">
+      <path
+         id="path172496"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 845.21107,-523.9135 c 104.6431,50.9521 215.70713,27.1478 351.66393,34.5205 103.6086,0.3844 311.0178,-2.2398 374.3105,-29.5137 55.3771,-32.378 -76.3813,108.5996 -151.0287,177.8406 -27.5917,31.3962 -49.8362,71.8329 -86.3037,100.966 -36.4694,29.1314 -90.7569,33.8101 -138.7587,33.1597 -46.2122,-0.2263 -91.0728,-8.1152 -121.0714,-33.6174 -30.0004,-25.5038 -61.7347,-76.6255 -91.68903,-104.7394 -56.5449,-36.5028 -194.9692,-216.3045 -137.1229,-178.6163 z" />
+      <path
+         id="path172498"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 896.23277,-431.0738 c 9.5143,-17.7802 37.4797,9.0871 50.89,17.7804 9.5754,6.2071 19.2471,-28.8651 31.1416,-24.1813 72.62673,28.5993 329.08393,10.522 429.26243,10.4933 13.3417,4.8881 4.9971,9.707 29.0868,21.0858 1.05,-3.9498 23.3538,-20.1003 41.0967,-25.0444 17.7428,-4.9442 19.7801,-3.316 30.3935,-5.317" />
+      <path
+         id="path172500"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 1030.2613,-305.5718 c 25.7877,-65.9814 314.2882,-81.0619 348.9698,6.2459" />
+      <path
+         id="path172502"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 808.21667,-512.291 c -2.1825,-18.3447 63.0498,-37.8394 43.2866,-37.8394" />
+      <path
+         id="path172504"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 1609.815,-514.8199 c 2.1825,-18.3447 -63.0498,-37.8394 -43.2866,-37.8394" />
+      <path
+         id="path172506"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 1091.9077,-168.7151 c 43.8086,57.28 221.7794,38.2172 246.7702,1.8295" />
+      <path
+         id="shape113"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 1049.1987,-277.6656 c 5.1762,16.2157 20.3907,-8.2874 27.6864,-16.2157 5.2096,-5.661 10.4714,26.3251 16.9425,22.0534 39.5123,-26.0827 179.037,-9.5961 233.5381,-9.5699 7.2587,-4.458 2.7194,-8.8529 15.8241,-19.2305 0.5726,3.6023 12.7063,18.3317 22.3594,22.8408" />
+      <text
+         id="text172512"
+         krita:useRichText="true"
+         transform="scale(1.0347665,0.96640159)"
+         fill="#000000"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         font-family="'8514oem'"
+         font-size="138.77px"
+         font-size-adjust="1"
+         font-stretch="normal"
+         letter-spacing="0"
+         word-spacing="0"
+         x="1125.8835"
+         y="-626.52588"><tspan
+           x="1125.8835"
+           id="tspan172510"
+           style="stroke-width:0">E</tspan></text>
+    </symbol>
+    <symbol
+       id="U_Q">
+      <path
+         id="shape117"
+         fill="none"
+         stroke="#000000"
+         stroke-width="26.4374"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 2951.5997,-174.8359 c 120.0077,121.2414 402.6012,69.8363 445.3299,6.7631" />
+      <path
+         id="path172569"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="26.4374"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 3298.9217,-363.917 c -13.8576,-113.5111 -73.644,-162.234 -110.2301,-151.8879 -82.5476,2.6303 -134.831,53.6093 -140.5563,154.6312 -6.1382,46.6465 11.3393,50.0174 16.0002,49.0578 20.862,1.2116 51.3392,74.5121 107.6662,65.3105 62.9865,16.1982 99.6852,-56.5068 115.1782,-63.1574 23.5124,-10.0931 10.8511,-15.7097 11.9418,-53.9542 z" />
+      <text
+         id="text172574"
+         krita:useRichText="true"
+         transform="scale(1.277647,0.78268881)"
+         fill="#000000"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         font-family="'8514oem'"
+         font-size="220.311px"
+         font-size-adjust="1"
+         font-stretch="normal"
+         letter-spacing="0"
+         word-spacing="0"
+         x="2310.5759"
+         y="-890.90393"><tspan
+           x="2310.5759"
+           id="tspan172572"
+           style="stroke-width:0">U/Q</tspan></text>
+    </symbol>
+    <symbol
+       id="g457629">
+      <path
+         id="path172577"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.2102"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 3956.1895,-221.9639 c 98.5729,57.7747 208.3934,43.0948 336.4635,51.4547 97.5984,0.4358 293.8367,-15.1568 353.4578,-46.0827" />
+      <path
+         id="path172579"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.2102"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 3926.5402,-196.4734 c -2.0559,-20.801 59.3924,-42.906 40.7756,-42.906" />
+      <path
+         id="path172581"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.2102"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 4681.6388,-199.3409 c 2.0558,-20.801 -59.3925,-42.906 -40.7757,-42.906" />
+      <path
+         id="shape0114"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.2102"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 4134.2286,-114.7019 c 41.2673,64.9498 298.1042,53.9662 321.6453,12.7062" />
+      <text
+         id="shape43"
+         krita:useRichText="true"
+         transform="scale(0.94314506,1.0602823)"
+         fill="#000000"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         font-family="'8514oem'"
+         font-size="143.418px"
+         font-size-adjust="1"
+         font-stretch="normal"
+         letter-spacing="0"
+         word-spacing="0"
+         x="4154.1855"
+         y="-405.44803"><tspan
+           x="4154.1855"
+           id="tspan172585"
+           style="stroke-width:0">M/B/P</tspan></text>
+    </symbol>
+    <symbol
+       id="T_S_1">
+      <path
+         id="path172529"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.5065"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 827.02307,256.8747 c 99.6927,59.1095 205.50263,31.4941 335.02763,40.0472 98.7071,0.4459 296.3044,-2.5984 356.6029,-34.2389 52.7573,-37.5615 -72.7679,125.9862 -143.884,206.3127 -26.2864,36.4226 -388.57343,27.7064 -417.11063,-4.9085 -53.8699,-42.3468 -185.7457,-250.9345 -130.6359,-207.2125 z" />
+      <path
+         id="shape114"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.5065"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 884.81247,365.2934 c 4.0781,-3.5006 19.0325,-1.1156 25.1916,3.565 10.6294,8.0779 18.0743,23.369 26.1632,29.7541 9.1224,7.2009 12.2668,-34.6043 23.5985,-29.1706 69.19103,33.1779 307.53243,11.468 402.97173,11.4347 12.7105,5.6707 7.336,16.5954 30.2861,29.7959 1.0003,-4.5821 12.4796,-23.9669 25.7545,-37.5409 16.9035,-5.7357 25.4125,-5.4521 35.5238,-7.7735" />
+      <path
+         id="path172532"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.5065"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 791.77867,270.358 c -2.0792,-21.2817 60.0672,-43.8974 41.2389,-43.8974" />
+      <path
+         id="path172534"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.5065"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 1555.4557,267.4242 c 2.0792,-21.2817 -60.0672,-43.8974 -41.2389,-43.8974" />
+      <path
+         id="path172536"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.5065"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 996.69657,537.2113 c 41.73613,66.4505 301.49093,55.2131 325.29943,12.9997" />
+      <text
+         id="text172551"
+         krita:useRichText="true"
+         transform="scale(0.93771615,1.0664208)"
+         fill="#000000"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         font-family="'8514oem'"
+         font-size="145.888px"
+         font-size-adjust="1"
+         font-stretch="normal"
+         letter-spacing="0"
+         word-spacing="0"
+         x="1150.0081"
+         y="128.26651"><tspan
+           x="1150.0081"
+           id="tspan172549"
+           style="stroke-width:0">T/S</tspan></text>
+    </symbol>
+    <symbol
+       id="A">
+      <path
+         id="path172442"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.4702"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 2856.7089,246.4711 c 98.6088,52.8938 203.2683,28.1823 331.385,35.836 97.634,0.399 293.0829,-2.3251 352.7258,-30.6385 52.1838,-33.6118 -71.9767,112.7383 -142.3196,184.6181 -26.0005,32.5926 -46.9623,74.5703 -81.327,104.8137 -34.3663,30.2416 -85.5233,35.0986 -130.757,34.4234 -43.5474,-0.2349 -85.8211,-8.4244 -114.0899,-34.8985 -28.2704,-26.4758 -58.1747,-79.5456 -86.4017,-108.7309 -53.2842,-37.894 -183.7262,-224.5478 -129.2156,-185.4233 z" />
+      <path
+         id="path172444"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.4702"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 2904.7884,342.8489 c 8.9657,-18.4578 35.3184,9.4334 47.9554,18.458 9.0232,6.4437 18.1373,-29.9652 29.3458,-25.1028 68.4387,29.6891 310.1072,10.9229 404.5089,10.8932 12.5723,5.0744 4.7089,10.0769 27.4095,21.8894 0.9895,-4.1004 22.0071,-20.8664 38.7268,-25.9989 16.7197,-5.1326 18.6395,-3.4424 28.6408,-5.5197" />
+      <path
+         id="shape28"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.4702"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 3031.0881,473.1337 c 24.3007,-68.496 296.1647,-84.1512 328.8463,6.4839" />
+      <path
+         id="path172447"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.4702"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 2821.8477,258.5365 c -2.0566,-19.0438 59.4141,-39.2814 40.7905,-39.2814" />
+      <path
+         id="path172449"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.4702"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 3577.2217,255.9112 c 2.0567,-19.0438 -59.4141,-39.2814 -40.7905,-39.2814" />
+      <path
+         id="path172451"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.4702"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 3089.1796,615.2059 c 41.2824,59.4629 208.9904,39.6736 232.5401,1.8992" />
+      <text
+         id="text172457"
+         krita:useRichText="true"
+         transform="scale(0.98587846,1.0143238)"
+         fill="#000000"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         font-family="'8514oem'"
+         font-size="137.252px"
+         font-size-adjust="1"
+         font-stretch="normal"
+         letter-spacing="0"
+         word-spacing="0"
+         x="3141.9758"
+         y="125.63483"><tspan
+           x="3141.9758"
+           id="tspan172455"
+           style="stroke-width:0">A</tspan></text>
+    </symbol>
+    <symbol
+       id="T_S_2">
+      <path
+         id="path172539"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.5065"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 1820.3056,284.6993 c 99.6927,59.1096 205.5026,31.4942 335.0276,40.0472 98.7071,0.4459 318.7893,-30.8656 369.2809,-135.4809 52.7574,-37.5616 -85.4459,227.2275 -156.562,307.5542 -26.2864,36.4226 -388.5734,27.7064 -417.1106,-4.9085 -53.8699,-42.3463 -185.7457,-250.9339 -130.6359,-207.212 z" />
+      <path
+         id="shape115"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.5065"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 1878.095,393.1181 c 4.0781,-3.5007 19.0325,-1.1157 25.1916,3.5649 10.6294,8.0779 18.0743,23.3691 26.1632,29.7542 9.1224,7.2009 12.2668,-34.6044 23.5985,-29.1706 69.191,33.1779 307.5324,11.468 402.9717,11.4347 14.9096,0.7931 13.215,0.047 26.3599,30.1311 4.4819,-6.3643 12.7515,-37.921 26.0264,-51.4952 28.7487,-21.3217 55.189,-51.5743 62.5899,-58.8112" />
+      <path
+         id="path172542"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.5065"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 1785.0612,298.1826 c -2.0792,-21.2817 60.0672,-43.8974 41.2389,-43.8974" />
+      <path
+         id="path172544"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.5065"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 2557.2652,205.6197 c 1.7679,-20.629 -51.0719,-42.5512 -35.0631,-42.5512" />
+      <path
+         id="path172546"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.5065"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 1991.6937,600.8584 c 41.7361,66.4505 301.4909,55.2131 325.2994,12.9997" />
+      <text
+         id="text172551-2"
+         krita:useRichText="true"
+         transform="scale(0.93771615,1.0664208)"
+         fill="#000000"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         font-family="'8514oem'"
+         font-size="145.888px"
+         font-size-adjust="1"
+         font-stretch="normal"
+         letter-spacing="0"
+         word-spacing="0"
+         x="2249.978"
+         y="145.09073"><tspan
+           x="2249.978"
+           id="tspan172549-9"
+           style="stroke-width:0">T/S</tspan></text>
+    </symbol>
+    <symbol
+       id="F_V">
+      <path
+         id="shape44"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.4903"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 4075.0574,599.503 c -53.2832,-42.7343 -185.5128,-257.5238 -131.0033,-213.402 98.607,59.65 203.2646,31.7821 331.379,40.4133 97.6321,0.45 293.0774,-2.6221 352.7192,-34.5519 52.1828,-37.905 -55.0666,115.6553 -125.4082,196.7154" />
+      <path
+         id="shape118"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.4903"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 4014.5312,524.9485 c 3.8116,-3.5326 17.7888,-1.1259 23.5456,3.5976 9.9349,8.1517 16.8935,23.5827 24.4538,30.0262 8.5263,7.2668 11.4653,-34.9208 22.0566,-29.4373 64.6703,33.4812 287.4396,11.5728 376.6419,11.5392 11.8803,5.7225 6.8569,16.7471 28.3088,30.0684 0.9336,-4.6241 11.6638,-24.1861 24.0718,-37.8842 15.7976,-5.7881 23.7505,-5.502 33.2021,-7.8446" />
+      <path
+         id="shape312"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.4903"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 3909.1936,399.7075 c -2.0566,-21.4763 59.413,-44.2988 40.7898,-44.2988" />
+      <path
+         id="path172592"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.4903"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 4664.5534,396.7469 c 2.0566,-21.4763 -59.4129,-44.2988 -40.7897,-44.2988" />
+      <path
+         id="shape0115"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.4903"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 4051.3763,624.4812 c 47.0832,-61.6978 205.7332,-58.5384 225.3256,-13.3219" />
+      <path
+         id="shape0116"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.4903"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 4258.7612,631.9746 c 35.8754,-71.1221 238.7321,-64.0941 265.511,-24.1456" />
+      <text
+         id="shape45"
+         krita:useRichText="true"
+         transform="scale(0.92836098,1.0771672)"
+         fill="#000000"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         font-family="'8514oem'"
+         font-size="145.753px"
+         font-size-adjust="1"
+         font-stretch="normal"
+         letter-spacing="0"
+         word-spacing="0"
+         x="4356.1987"
+         y="201.42812"><tspan
+           x="4356.1987"
+           id="tspan172597"
+           style="stroke-width:0">F/V</tspan></text>
+    </symbol>
+    <rect
+       x="3482.5009"
+       y="18412.398"
+       width="1592.0952"
+       height="323.72232"
+       id="rect495878" />
+    <rect
+       x="3482.5009"
+       y="18412.398"
+       width="1592.0952"
+       height="323.72232"
+       id="rect509680" />
+    <symbol
+       id="z_artist_info">
+      <g
+         id="z_artist_info_transform"
+         transform="matrix(0.26458333,0,0,0.26458333,837.36977,3438.3885)"
+         inkscape:label="z artist info">
+        <text
+           xml:space="preserve"
+           transform="scale(0.26458333)"
+           id="text509806"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect495878);fill:#000000;fill-opacity:1;stroke:none"><tspan
+             x="3482.5"
+             y="18447.789"
+             id="tspan510392">My Portfolio: https://humandoomfox.artstation.com/
+</tspan><tspan
+             x="3482.5"
+             y="18497.789"
+             id="tspan510394">My Website: https://ryosworkshop500.wixsite.com/website
+</tspan><tspan
+             x="3482.5"
+             y="18547.789"
+             id="tspan510396">My Discord:firebreather500#7176
+</tspan><tspan
+             x="3482.5"
+             y="18597.789"
+             id="tspan510398">My Instagram: https://www.instagram.com/ryosworkshop500/
+</tspan><tspan
+             x="3482.5"
+             y="18647.789"
+             id="tspan510400">My Email: ryosworkshop500@gmail.com </tspan></text>
+      </g>
+    </symbol>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <use
+       xlink:href="#O1"
+       id="use485510"
+       transform="translate(-1343.5606,1157.4558)" />
+    <use
+       xlink:href="#O2"
+       id="use485529"
+       transform="translate(-1502.5859,1124.7153)" />
+    <use
+       xlink:href="#L_N"
+       id="use485563"
+       transform="translate(72.760416,-62.838542)" />
+    <use
+       xlink:href="#W_R"
+       id="use485673"
+       transform="translate(-1341.0557,888.95736)" />
+    <use
+       xlink:href="#E2"
+       id="use485740"
+       transform="translate(-2675.7747,1437.068)" />
+    <use
+       xlink:href="#E1"
+       id="use485827"
+       transform="translate(-807.13821,1506.6185)" />
+    <use
+       xlink:href="#U_Q"
+       id="use485929"
+       transform="translate(-1718.7921,1509.2206)" />
+    <use
+       xlink:href="#g457629"
+       id="use486043"
+       transform="translate(-1743.1184,1454.3666)" />
+    <use
+       xlink:href="#T_S_1"
+       id="use486172"
+       transform="translate(-2060.6184,1496.5992)" />
+    <use
+       xlink:href="#A"
+       id="use486318"
+       transform="translate(-2858.6983,1706.9854)" />
+    <use
+       xlink:href="#T_S_2"
+       id="use486481"
+       transform="translate(-793.35822,1647.5998)" />
+    <use
+       xlink:href="#F_V"
+       id="use486829"
+       transform="translate(-1540.6684,1607.1098)" />
+    <use
+       xlink:href="#z_artist_info"
+       id="use510177" />
+  </g>
+</svg>

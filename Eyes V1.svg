@@ -1,0 +1,2109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg454314"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Eyes V1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview454316"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.01"
+     inkscape:cx="-9550"
+     inkscape:cy="-12050"
+     inkscape:window-width="1920"
+     inkscape:window-height="1047"
+     inkscape:window-x="-10"
+     inkscape:window-y="-10"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs454311">
+    <linearGradient
+       id="linearGradient456648"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#161616;stop-opacity:1;"
+         offset="0"
+         id="stop456646" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath456642">
+      <g
+         inkscape:label="Clip"
+         id="use456644">
+        <path
+           id="path457376"
+           fill="#000000"
+           stroke="#000000"
+           stroke-width="26.313"
+           stroke-linecap="square"
+           stroke-linejoin="bevel"
+           d="m 4669.0325,-933.8464 c -18.6387,-72.0434 291.1289,-169.738 432.436,-206.3091 332.1027,-85.9504 655.257,-59.5329 777.4462,-6.6022 77.3588,33.5075 -50.8446,262.8817 -165.3773,225.9002 -68.3388,-22.0659 -153.8533,-125.6821 -198.022,-146.7454 -53.141,-25.3431 -254.4731,-17.1893 -318.5724,-5.1722 -106.0906,19.8841 -248.1655,61.9152 -395.0848,178.9412 -32.6066,25.9717 -114.4318,31.0901 -132.8257,-40.0055 z"
+           transform="translate(-251.35417,-2963.3333)" />
+      </g>
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient456648"
+       id="linearGradient456650"
+       x1="-6147.3831"
+       y1="-676.57429"
+       x2="-5142.4763"
+       y2="-676.57429"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-165.36458,-912.8125)" />
+    <symbol
+       id="Eye_1.1">
+      <path
+         id="path171883"
+         sodipodi:type="arc"
+         sodipodi:rx="468.0239"
+         sodipodi:ry="503.02551"
+         sodipodi:cx="-7040.4468"
+         sodipodi:cy="-6991.7617"
+         sodipodi:start="5.7494535"
+         sodipodi:end="5.6825945"
+         sodipodi:open="true"
+         fill="#8a8a8a"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         sodipodi:arc-type="arc"
+         d="m -6637.5182,-7247.6758 a 468.0239,503.02551 0 0 1 -158.1203,684.6382 468.0239,503.02551 0 0 1 -639.5534,-158.4787 468.0239,503.02551 0 0 1 136.7413,-689.9358 468.0239,503.02551 0 0 1 644.1244,135.4156" />
+      <ellipse
+         id="shape121"
+         rx="467.07681"
+         ry="486.34235"
+         cx="-7040.0952"
+         cy="-7024.6851"
+         fill="none"
+         stroke="#000000"
+         stroke-width="75.857"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <ellipse
+         id="shape026"
+         rx="368.08878"
+         ry="376.06995"
+         cx="-7039.314"
+         cy="-7019.6113"
+         fill="none"
+         stroke="#000000"
+         stroke-width="75.857"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <path
+         id="shape131"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m -6968.3413,-7021.0104 -65.1898,-202.8681 -63.4919,202.161 70.1434,187.5314 z" />
+      <path
+         id="shape14"
+         fill="none"
+         stroke="#000000"
+         stroke-width="52.0162"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m -7199.0296,-6912.3508 -84.8097,126.4906" />
+      <path
+         id="shape027"
+         fill="none"
+         stroke="#000000"
+         stroke-width="52.0162"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m -7257.029,-7075.235 -131.3545,25.1906" />
+      <path
+         id="shape028"
+         fill="none"
+         stroke="#000000"
+         stroke-width="52.0162"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m -6770.5319,-6793.1484 -107.3469,-96.8825" />
+      <path
+         id="shape029"
+         fill="none"
+         stroke="#000000"
+         stroke-width="52.0162"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m -6689.5732,-7044.7601 -129.8662,-35.0479" />
+      <path
+         id="shape030"
+         fill="none"
+         stroke="#000000"
+         stroke-width="52.0162"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m -7157.3218,-7230.5655 -105.1036,-100.5688" />
+      <path
+         id="path171893"
+         fill="none"
+         stroke="#000000"
+         stroke-width="52.0162"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m -6776.7528,-7304.1537 -119.4341,72.1116" />
+      <path
+         id="shape032"
+         fill="none"
+         stroke="#000000"
+         stroke-width="52.0162"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m -7030.3448,-6647.7835 2.3181,-91.9172" />
+      <path
+         id="shape033"
+         fill="none"
+         stroke="#000000"
+         stroke-width="52.0162"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m -7031.8473,-7328.9428 0.4344,-68.7299" />
+      <ellipse
+         id="shape15"
+         rx="147.25462"
+         ry="173.32805"
+         cx="-7270.6899"
+         cy="-7287.3403"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+    </symbol>
+    <symbol
+       id="Eye_1.2">
+      <ellipse
+         id="shape0681"
+         transform="scale(-1,1)"
+         rx="392.66071"
+         ry="506.81668"
+         cx="5897.2549"
+         cy="-7012.4287"
+         fill="#828282"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <path
+         id="shape322"
+         transform="scale(-1,1)"
+         sodipodi:type="arc"
+         sodipodi:rx="392.59213"
+         sodipodi:ry="508.69052"
+         sodipodi:cx="5908.769"
+         sodipodi:cy="-7008.5127"
+         sodipodi:start="5.2492802"
+         sodipodi:end="5.1484473"
+         sodipodi:open="true"
+         fill="none"
+         stroke="#000000"
+         stroke-width="0.7"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         sodipodi:arc-type="arc"
+         d="m 6109.567,-7445.6319 a 392.59213,508.69052 0 0 1 141.5116,686.1972 392.59213,508.69052 0 0 1 -525.8513,200.5975 392.59213,508.69052 0 0 1 -168.0204,-676.0848 392.59213,508.69052 0 0 1 517.3813,-234.6798"
+         style="stroke-width:18.6214;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         id="shape0362"
+         transform="scale(-1,1)"
+         sodipodi:type="arc"
+         sodipodi:rx="117.93429"
+         sodipodi:ry="234.8029"
+         sodipodi:cx="5907.3267"
+         sodipodi:cy="-7061.4927"
+         sodipodi:start="4.6750525"
+         sodipodi:end="4.5591141"
+         sodipodi:open="true"
+         fill="#000000"
+         stroke="#000000"
+         stroke-width="0.7"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         sodipodi:arc-type="arc"
+         d="m 5902.9244,-7296.1319 a 117.93429,234.8029 0 0 1 122.0773,219.0783 117.93429,234.8029 0 0 1 -106.4522,249.2983 117.93429,234.8029 0 0 1 -128.2474,-204.6287 117.93429,234.8029 0 0 1 99.0189,-261.1588" />
+      <path
+         id="shape0452"
+         fill="#4c4c4c"
+         stroke="#000000"
+         stroke-width="45.8373"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -5623.9753,-7186.7379 c 54.8733,5.7326 38.7036,276.1558 -32.9275,426.9382 -71.6308,150.7824 -243.9319,209.2776 -382.2301,132.9255 -138.2988,-76.3551 -259.0143,-410.5714 -147.802,-478.7164 23.0319,-14.1125 56.0514,-24.0254 56.9548,14.1101 2.5471,107.5807 54.1263,229.7728 90.5168,271.857 43.7885,50.6402 82.475,70.4091 116.3177,75.8834 68.3379,11.054 138.5159,-36.7918 168.2835,-101.1043 41.1371,-88.8785 53.2434,-224.6286 64.7243,-329.9206 6.2258,-57.099 42.0201,-14.495 66.1625,-11.9729 z" />
+      <ellipse
+         id="shape1112"
+         rx="133.86234"
+         ry="103.74917"
+         cx="-6076.4717"
+         cy="-7251.8149"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+    </symbol>
+    <symbol
+       id="Eye_1.3">
+      <ellipse
+         id="shape221"
+         rx="450.12424"
+         ry="524.43262"
+         cx="-4508.4902"
+         cy="-7024.9326"
+         fill="#828282"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         style="stroke-width:18.6214;stroke-miterlimit:4;stroke-dasharray:none" />
+      <ellipse
+         id="shape053"
+         rx="78.748222"
+         ry="62.009186"
+         cx="-4425.9663"
+         cy="-7143.8081"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <ellipse
+         id="shape054"
+         rx="48.035118"
+         ry="37.27005"
+         cx="-4574.6147"
+         cy="-6973.0386"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <path
+         id="shape055"
+         sodipodi:type="arc"
+         sodipodi:rx="214.22995"
+         sodipodi:ry="320.13733"
+         sodipodi:cx="-4495.9355"
+         sodipodi:cy="-7021.8862"
+         sodipodi:start="5.2492802"
+         sodipodi:end="5.2463971"
+         sodipodi:open="true"
+         fill="#000000"
+         stroke="#000000"
+         stroke-width="0.7"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         sodipodi:arc-type="arc"
+         d="m -4386.364,-7296.9812 a 214.22995,320.13733 0 0 1 74.5958,438.6364 214.22995,320.13733 0 0 1 -293.4734,111.7892 214.22995,320.13733 0 0 1 -75.0189,-438.4751 214.22995,320.13733 0 0 1 293.3653,-112.4214" />
+      <path
+         id="shape056"
+         sodipodi:type="arc"
+         sodipodi:rx="340.12265"
+         sodipodi:ry="433.50842"
+         sodipodi:cx="-4505.2134"
+         sodipodi:cy="-7019.373"
+         sodipodi:start="5.2492802"
+         sodipodi:end="5.2472126"
+         sodipodi:open="true"
+         fill="none"
+         stroke="#000000"
+         stroke-width="0.48"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         sodipodi:arc-type="arc"
+         d="m -4331.2518,-7391.8881 a 340.12265,433.50842 0 0 1 118.3967,594.0478 340.12265,433.50842 0 0 1 -466.0176,151.2113 340.12265,433.50842 0 0 1 -118.8785,-593.8914 340.12265,433.50842 0 0 1 465.8947,-151.8253"
+         style="stroke-width:18.6214;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         id="shape057"
+         fill="none"
+         stroke="#000000"
+         stroke-width="49.6083"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="2"
+         d="m -4827.1297,-6688.2634 170.5971,-132.5939" />
+      <path
+         id="shape058"
+         fill="none"
+         stroke="#000000"
+         stroke-width="49.6083"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="2"
+         d="m -4934.0876,-6977.8002 224.5845,-5.6037" />
+      <path
+         id="shape059"
+         fill="none"
+         stroke="#000000"
+         stroke-width="49.6083"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="2"
+         d="m -4845.4239,-7320.4353 177.0942,134.8248" />
+      <path
+         id="shape060"
+         fill="none"
+         stroke="#000000"
+         stroke-width="49.6083"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="2"
+         d="m -4512.2359,-7295.8974 -1e-4,-236.4692" />
+      <path
+         id="shape0611"
+         fill="none"
+         stroke="#000000"
+         stroke-width="49.6083"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="2"
+         d="m -4309.2963,-7196.6042 156.907,-121.9995" />
+      <path
+         id="shape062"
+         fill="none"
+         stroke="#000000"
+         stroke-width="49.6083"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="2"
+         d="m -4303.3384,-6975.17 224.5845,-5.6037" />
+      <path
+         id="shape063"
+         fill="none"
+         stroke="#000000"
+         stroke-width="49.6083"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="2"
+         d="m -4306.8746,-6801.3249 116.2725,139.5255" />
+      <path
+         id="shape231"
+         sodipodi:type="arc"
+         sodipodi:rx="450.33374"
+         sodipodi:ry="529.71405"
+         sodipodi:cx="-4507.9312"
+         sodipodi:cy="-7012.2222"
+         sodipodi:start="4.2144247"
+         sodipodi:end="4.2155429"
+         sodipodi:open="true"
+         fill="none"
+         stroke="#000000"
+         stroke-width="0.7"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         sodipodi:arc-type="arc"
+         d="m -4723.0277,-7477.606 a 450.33374,529.71405 0 0 1 0.4426,-0.2826" />
+      <path
+         id="shape064"
+         fill="none"
+         stroke="#000000"
+         stroke-width="49.6083"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="2"
+         d="m -4493.4237,-6492.6966 -10e-5,-236.4692" />
+      <ellipse
+         id="shape241"
+         rx="105.11885"
+         ry="65.792137"
+         cx="-4652.5977"
+         cy="-7237.4731"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#ffffff"
+         stroke-width="85.0428"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <ellipse
+         id="shape0132"
+         transform="scale(-1,1)"
+         rx="69.834602"
+         ry="62.87019"
+         cx="4408.0435"
+         cy="-6985.8857"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <path
+         id="eyeball1.9"
+         sodipodi:type="arc"
+         sodipodi:rx="458.31564"
+         sodipodi:ry="527.59772"
+         sodipodi:cx="-4513.8452"
+         sodipodi:cy="-7014.1221"
+         sodipodi:start="5.2492802"
+         sodipodi:end="5.1484473"
+         sodipodi:open="true"
+         fill="none"
+         stroke="#000000"
+         stroke-width="0.7"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         sodipodi:arc-type="arc"
+         style="stroke-width:21.1667;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m -4279.4318,-7467.4883 a 458.31564,527.59772 0 0 1 165.2019,711.702 458.31564,527.59772 0 0 1 -613.8836,208.0535 458.31564,527.59772 0 0 1 -196.1486,-701.2139 458.31564,527.59772 0 0 1 603.9956,-243.4024" />
+    </symbol>
+    <symbol
+       id="Eye_1.4">
+      <ellipse
+         id="shape067"
+         transform="scale(-1)"
+         rx="439.55563"
+         ry="419.48816"
+         cx="7045.4028"
+         cy="5741.2461"
+         fill="#828282"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <path
+         id="shape32"
+         transform="scale(-1)"
+         sodipodi:type="arc"
+         sodipodi:rx="439.76019"
+         sodipodi:ry="423.71274"
+         sodipodi:cx="7035.0654"
+         sodipodi:cy="5736.1562"
+         sodipodi:start="5.2492802"
+         sodipodi:end="5.1484473"
+         sodipodi:open="true"
+         fill="none"
+         stroke="#000000"
+         stroke-width="0.7"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         sodipodi:arc-type="arc"
+         d="m 7259.9883,5372.0587 a 439.76019,423.71274 0 0 1 158.5136,571.5665 439.76019,423.71274 0 0 1 -589.0299,167.0874 439.76019,423.71274 0 0 1 -188.2072,-563.1435 439.76019,423.71274 0 0 1 579.5421,-195.4761"
+         style="stroke-width:18.6214;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         id="shape0361"
+         transform="scale(-1)"
+         sodipodi:type="arc"
+         sodipodi:rx="181.76785"
+         sodipodi:ry="207.93288"
+         sodipodi:cx="7042.1465"
+         sodipodi:cy="5713.6509"
+         sodipodi:start="4.6750525"
+         sodipodi:end="4.5591141"
+         sodipodi:open="true"
+         fill="#000000"
+         stroke="#000000"
+         stroke-width="0.7"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         sodipodi:arc-type="arc"
+         d="m 7035.3615,5505.8629 a 181.76785,207.93288 0 0 1 188.1532,194.0078 181.76785,207.93288 0 0 1 -164.0709,220.7694 181.76785,207.93288 0 0 1 -197.663,-181.2117 181.76785,207.93288 0 0 1 152.6142,-231.2727" />
+      <path
+         id="shape0451"
+         transform="scale(-1)"
+         sodipodi:type="arc"
+         sodipodi:rx="316.26279"
+         sodipodi:ry="331.7926"
+         sodipodi:cx="7043.5649"
+         sodipodi:cy="5725.4741"
+         sodipodi:start="4.2781902"
+         sodipodi:end="4.2155429"
+         sodipodi:open="true"
+         fill="none"
+         stroke="#000000"
+         stroke-width="0.7"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         sodipodi:arc-type="arc"
+         d="m 6910.5184,5424.4694 a 316.26279,331.7926 0 0 1 417.8436,156.728 316.26279,331.7926 0 0 1 -142.83,440.7623 316.26279,331.7926 0 0 1 -422.3174,-142.9222 316.26279,331.7926 0 0 1 129.602,-445.239"
+         style="stroke-width:18.6214;stroke-miterlimit:4;stroke-dasharray:none" />
+      <ellipse
+         id="shape110"
+         rx="138.29913"
+         ry="123.30193"
+         cx="-7195.9473"
+         cy="5518.8496"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="scale(1,-1)" />
+    </symbol>
+    <symbol
+       id="Eye_1.5">
+      <ellipse
+         id="shape06811"
+         transform="scale(-1,1)"
+         rx="515.5528"
+         ry="509.0549"
+         cx="5821.6021"
+         cy="-5655.8354"
+         fill="#828282"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <ellipse
+         id="ellipse172162"
+         rx="514.31635"
+         ry="516.49182"
+         cx="-5820.9224"
+         cy="-5654.9956"
+         fill="none"
+         stroke="#020202"
+         stroke-width="23.7848"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <ellipse
+         id="ellipse172164"
+         rx="211.80003"
+         ry="192.49977"
+         cx="-5832.8467"
+         cy="-5643.4517"
+         fill="none"
+         stroke="#020202"
+         stroke-width="23.7848"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <ellipse
+         id="ellipse172166"
+         rx="383.30679"
+         ry="386.069"
+         cx="-5829.7471"
+         cy="-5644.521"
+         fill="none"
+         stroke="#020202"
+         stroke-width="23.7848"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <path
+         id="path119"
+         fill="#020202"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -5837.4201,-5722.5358 23.647,-54.0816 -15.7618,-46.2402 19.7044,-35.3515 17.7342,33.4704 27.5833,-51.5667 204.4236,-233.9576 -122.6495,275.3284 -24.6289,58.3172 h 35.462 l -21.6768,42.8273 h -38.4163 l -21.6768,42.1935 h 64.0399 l 23.6428,-29.0621 52.2186,1.869 -14.78,27.1931 h 29.5599 l 310.6304,56.7002 -310.6304,42.6852 h -36.4546 l 18.7225,30.9432 h -43.3536 l -25.613,-30.0027 -66.0101,-0.9405 11.8213,27.1931 36.9477,7.4961 30.0444,49.6917 h -30.0444 l 27.0923,52.5072 96.7355,260.1036 -170.6309,-215.0924 -28.5737,-55.3188 -14.7735,26.2566 -29.3976,-55.3248 16.5943,-25.3101 -24.6353,-45.0091 -17.73,41.2509 12.8033,30.0027 -22.6587,50.6322 -11.8192,-30.9371 -28.5737,49.6957 -149.6265,236.7163 c -8.8671,-16.5637 85.5865,-263.2858 76.7194,-279.8504 l 21.6768,-47.8207 -32.5141,3.7521 18.7225,-47.8145 35.4684,-2.8116 17.7321,-32.8203 -66.9985,-2.8156 -24.6311,28.1317 -40.3865,-3.7501 17.7278,-28.1276 -34.4779,-0.9406 -270.7135,-41.9964 264.7985,-44.2595 h 33.4982 l -20.6885,-25.3202 45.3174,-9.3752 21.6768,31.8797 65.024,1.8751 -19.7065,-36.5664 -43.3472,-10.3137 -18.7226,-40.0158 h 31.5323 l -29.5599,-47.1807 -122.6719,-259.1945 197.5492,202.5308 31.5258,66.9774 13.7938,-42.5145 25.6172,33.1413 -12.8097,51.5667" />
+      <path
+         id="path11415"
+         fill="#020202"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -5830.5091,-5839.2056 v -86.8231 l 49.3424,-51.0745 -16.9974,-17.025 -32.345,33.4804 v -54.4767 h -27.9578 v 53.912 l -32.895,-33.4803 -16.4474,17.5896 49.3424,50.5098 v 87.3878 z" />
+      <path
+         id="path11419"
+         fill="#020202"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -5671.0201,-5761.3733 13.1607,24.4033 72.9134,-43.1269 67.431,18.7236 6.0325,-23.8338 -43.8599,-12.4887 45.5055,-26.6714 -13.7108,-25.5326 -45.5009,26.6667 11.5104,-44.8255 -23.0255,-6.809 -15.4336,63.9962 z" />
+      <path
+         id="path11423"
+         fill="#020202"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -5651.1612,-5546.1553 72.3679,43.1269 68.5265,-18.1541 4.937,23.8338 -42.2189,12.4793 43.8599,26.6714 -13.7062,24.9725 -46.0511,-26.6713 11.5151,45.3996 -22.48,5.1009 -13.8017,-68.1889 -76.6547,-43.5973 z" />
+      <path
+         id="path11427"
+         fill="#020202"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -5814.7148,-5452.4065 v 85.1383 l 48.7922,52.7592 -15.3519,17.5943 -33.4403,-32.9157 v 53.9121 h -27.958 v -57.2201 l -33.445,35.6542 -13.8062,-19.8199 47.3421,-50.2887 0.4546,-84.8137 z" />
+      <path
+         id="path11431"
+         fill="#020202"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -5989.8726,-5513.4386 -72.9178,43.6915 -17.5387,68.6688 -23.03,-6.2396 11.515,-45.4043 -45.5055,26.6713 -13.1561,-24.3938 44.9554,-28.3796 -43.8598,-12.484 6.0325,-22.6998 62.4803,19.3449 76.7685,-44.3127 z" />
+      <path
+         id="path11435"
+         fill="#020202"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -6027.656,-5734.9645 -70.1766,-41.9976 -67.9765,18.1638 -6.5781,-23.834 43.8554,-12.4839 -43.8554,-28.2336 12.056,-23.4104 46.6011,26.1067 -11.5105,-45.395 20.8344,-5.675 18.8659,68.3771 73.2362,44.5481 z" />
+      <ellipse
+         id="shape11121"
+         rx="106.82378"
+         ry="84.069969"
+         cx="-6087.9541"
+         cy="-5950.4775"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <ellipse
+         id="shape11122"
+         rx="56.656273"
+         ry="52.510239"
+         cx="-5886.646"
+         cy="-5693.79"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+    </symbol>
+    <symbol
+       id="Eye_1.6">
+      <path
+         id="shape251"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#ffffff"
+         stroke-width="132.534"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -4188.3112,-5938.6319 -5.9518,-38.6325 -17.0223,-35.4559 -26.6642,-31.2545 -34.9968,-26.0283 -42.02,-19.8799 -47.6146,-12.7067 -51.781,-4.4064 -51.9,4.4064 -47.4956,12.7067 -42.02,19.8799 -34.9968,26.0283 -26.6642,31.2545 -17.0222,35.4559 -5.9519,38.6325 5.9519,38.6326 17.0222,35.4559 26.6642,31.2545 34.9968,26.1308 42.02,19.8799 47.4956,12.6042 27.6165,2.4594 -9.1658,0.7173 -47.6147,12.7067 -42.0199,19.8799 -22.9741,17.1131 -2.8569,-18.6502 -17.0222,-35.4559 -26.6643,-31.2544 -34.9967,-26.0284 -42.02,-19.8798 -47.6147,-12.7068 -51.7809,-4.4063 -51.9,4.4063 -47.4957,12.7068 -42.0199,19.8798 -34.9968,26.0284 -26.6642,31.2544 -17.0223,35.4559 -5.9518,38.6326 5.9518,38.6326 17.0223,35.4559 26.6642,31.2544 34.9968,26.1308 42.0199,19.8799 47.4957,12.6043 51.9,4.5088 51.7809,-4.5088 47.6147,-12.6043 42.02,-19.8799 22.974,-17.2156 2.8569,18.6502 17.0223,35.4559 26.6642,31.2545 14.2844,10.6573 -15.9509,-4.2015 -51.781,-4.5088 -51.9,4.5088 -47.4956,12.6043 -42.02,19.8799 -34.9968,26.1308 -26.6642,31.2545 -17.0222,35.4558 -5.9519,38.6326 5.9519,38.6326 17.0222,35.4559 26.6642,31.2544 34.9968,26.0284 42.02,19.8799 47.4956,12.7067 51.9,4.4064 51.781,-4.4064 47.6147,-12.7067 42.0199,-19.8799 34.9968,-26.0284 26.6642,-31.2544 17.0223,-35.4559 5.9518,-38.6326 -5.9518,-38.6326 -17.0223,-35.4558 -26.6642,-31.2545 -14.2844,-10.6573 15.9509,4.3039 51.781,4.4064 51.9,-4.4064 47.4956,-12.7067 42.02,-19.8799 34.9967,-26.1308 26.6643,-31.2545 12.8559,-26.6431 17.2603,8.0954 47.6147,12.7067 51.781,4.4064 51.7809,-4.4064 47.6147,-12.7067 42.02,-19.8799 34.9968,-26.0283 26.6642,-31.2545 17.0222,-35.4559 5.9518,-38.6325 -5.9518,-38.6326 -17.0222,-35.4559 -26.6642,-31.2545 -34.9968,-26.1308 -42.02,-19.8799 -47.6147,-12.7067 -51.7809,-4.4064 -51.781,4.4064 -47.6147,12.7067 -42.0199,19.8799 -34.9968,26.1308 -26.6642,31.2545 -12.856,26.7456 -17.2603,-8.1979 -47.4956,-12.7067 -27.6166,-2.3569 9.1659,-0.8198 47.6146,-12.6042 42.02,-19.8799 34.9968,-26.1308 26.6642,-31.2545 17.0223,-35.4559 5.9518,-38.6326 m 258.4286,615.252 -5.9518,-38.6326 -17.0222,-35.3534 -26.6643,-31.357 -34.9967,-26.0283 -42.02,-19.8799 -47.6147,-12.7067 -51.7809,-4.4064 -51.781,4.4064 -47.6147,12.7067 -42.0199,19.8799 -34.9968,26.0283 -26.6642,31.357 -17.0223,35.3534 -5.9518,38.6326 5.9518,38.6325 17.0223,35.4559 26.6642,31.2545 34.9968,26.1308 42.0199,19.8799 47.6147,12.7067 51.781,4.4064 51.7809,-4.4064 47.6147,-12.7067 42.02,-19.8799 34.9967,-26.1308 26.6643,-31.2545 17.0222,-35.4559 5.9518,-38.6325" />
+      <ellipse
+         id="shape34"
+         transform="scale(1,-1)"
+         rx="184.98383"
+         ry="162.76961"
+         cx="-4408.1753"
+         cy="5919.4595"
+         fill="#161616"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <ellipse
+         id="shape35"
+         transform="scale(1,-1)"
+         rx="184.98383"
+         ry="162.76961"
+         cx="-4075.9905"
+         cy="5705.4165"
+         fill="#161616"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <ellipse
+         id="shape36"
+         transform="scale(1,-1)"
+         rx="184.98383"
+         ry="162.76961"
+         cx="-4742.7144"
+         cy="5705.5801"
+         fill="#161616"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <ellipse
+         id="shape37"
+         transform="scale(1,-1)"
+         rx="184.98381"
+         ry="162.76959"
+         cx="-4615.0454"
+         cy="5351.6226"
+         fill="#161616"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <ellipse
+         id="shape38"
+         transform="scale(1,-1)"
+         rx="184.98383"
+         ry="162.76961"
+         cx="-4161.6309"
+         cy="5343.2983"
+         fill="#161616"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+    </symbol>
+    <symbol
+       id="Eye_1.7">
+      <ellipse
+         id="shape047"
+         rx="499.94031"
+         ry="542.50201"
+         cx="-6980.9829"
+         cy="-4505.1582"
+         fill="#a6a6a6"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="70.3802"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         style="stroke-width:70.38;stroke-miterlimit:4;stroke-dasharray:none" />
+      <ellipse
+         id="shape048"
+         rx="372.79422"
+         ry="447.25714"
+         cx="-6988.5352"
+         cy="-4506.7163"
+         fill="#a6a6a6"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="70.3802"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         style="stroke-width:66.48;stroke-miterlimit:4;stroke-dasharray:none" />
+      <ellipse
+         id="shape049"
+         rx="258.2066"
+         ry="357.94583"
+         cx="-6986.834"
+         cy="-4516.022"
+         fill="none"
+         stroke="#000000"
+         stroke-width="41.0551"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <ellipse
+         id="shape050"
+         rx="160.64595"
+         ry="290.27142"
+         cx="-6991.3047"
+         cy="-4516.6709"
+         fill="#a6a6a6"
+         stroke="#000000"
+         stroke-width="41.0551"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <ellipse
+         id="ellipse171969"
+         rx="60.561081"
+         ry="187.48172"
+         cx="-6992.3267"
+         cy="-4517.1836"
+         fill="#1a1a1a"
+         stroke="#000000"
+         stroke-width="41.0551"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+    </symbol>
+    <symbol
+       id="Eye_1.8">
+      <ellipse
+         id="shape06821"
+         rx="299.22803"
+         ry="519.75366"
+         cx="-5858.7832"
+         cy="-4398.7388"
+         fill="#828282"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         style="stroke-width:18.6214;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         id="shape3233"
+         sodipodi:type="arc"
+         sodipodi:rx="299.17578"
+         sodipodi:ry="507.74799"
+         sodipodi:cx="-5850.0088"
+         sodipodi:cy="-4408.6509"
+         sodipodi:start="5.2492802"
+         sodipodi:end="5.1484473"
+         sodipodi:open="true"
+         fill="none"
+         stroke="#000000"
+         stroke-width="0.7"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         sodipodi:arc-type="arc"
+         d="m -5696.9902,-4844.9602 a 299.17578,507.74799 0 0 1 107.8393,684.9258 299.17578,507.74799 0 0 1 -400.7263,200.2259 299.17578,507.74799 0 0 1 -128.0404,-674.8322 299.17578,507.74799 0 0 1 394.2717,-234.2449"
+         style="stroke-width:18.6214;stroke-miterlimit:4;stroke-dasharray:none" />
+      <ellipse
+         id="shape11131"
+         transform="scale(-1,1)"
+         rx="102.01011"
+         ry="106.39746"
+         cx="5984.6504"
+         cy="-4606.3389"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+    </symbol>
+    <symbol
+       id="Eye_1.9">
+      <ellipse
+         id="shape0671"
+         transform="scale(-1,1)"
+         rx="495.83786"
+         ry="469.4545"
+         cx="4388.6562"
+         cy="-4433.1279"
+         fill="#828282"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <ellipse
+         id="ellipse172073"
+         cx="-4638.5444"
+         cy="-4468.7368"
+         fill="#070707"
+         fill-rule="evenodd"
+         stroke="#070707"
+         stroke-width="50.7763"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         rx="78.425995"
+         ry="95.008041" />
+      <path
+         id="path172075"
+         fill="none"
+         stroke="#070707"
+         stroke-width="50.7763"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="2"
+         d="m -4573.9582,-4468.7367 350.6103,2.7944" />
+      <ellipse
+         id="ellipse172077"
+         cx="-4164.1938"
+         cy="-4471.2256"
+         fill="#070707"
+         fill-rule="evenodd"
+         stroke="#070707"
+         stroke-width="50.7763"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         rx="78.425995"
+         ry="95.008041" />
+      <ellipse
+         id="ellipse172079"
+         rx="507.25522"
+         ry="468.28989"
+         cx="-4393.5498"
+         cy="-4455.6743"
+         fill="none"
+         stroke="#070707"
+         stroke-width="50.7763"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <ellipse
+         id="shape1101"
+         rx="100.56451"
+         ry="111.31835"
+         cx="-4702.2021"
+         cy="-4638.7363"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+    </symbol>
+    <symbol
+       id="Eye_2.1">
+      <ellipse
+         id="shape16"
+         rx="473.82538"
+         ry="481.23773"
+         cx="-6968.1792"
+         cy="-3087.9021"
+         fill="#1a1a1a"
+         fill-rule="evenodd"
+         stroke="#1a1a1a"
+         stroke-width="130.651"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <ellipse
+         id="shape17"
+         rx="150.89406"
+         ry="138.22408"
+         cx="-7212.8232"
+         cy="-3334.1953"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#ffffff"
+         stroke-width="130.651"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <ellipse
+         id="shape036"
+         rx="59.618515"
+         ry="45.994801"
+         cx="-6900.377"
+         cy="-2995.9758"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#ffffff"
+         stroke-width="130.651"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+    </symbol>
+    <symbol
+       id="Eye_2.2">
+      <ellipse
+         id="shape18"
+         rx="405.10281"
+         ry="499.72302"
+         cx="-5771.8247"
+         cy="-3148.0403"
+         fill="#333333"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="61.6192"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <ellipse
+         id="shape039"
+         rx="332.7886"
+         ry="405.60486"
+         cx="-5771.1973"
+         cy="-3136.1694"
+         fill="none"
+         stroke="#000000"
+         stroke-width="24.6477"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <ellipse
+         id="shape19"
+         cx="-5768.2754"
+         cy="-3222.5146"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#ffffff"
+         stroke-width="35.2192"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         rx="47.719757"
+         ry="43.928505" />
+      <ellipse
+         id="shape040"
+         cx="-5846.1758"
+         cy="-3160.7507"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#ffffff"
+         stroke-width="35.2192"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         rx="47.719757"
+         ry="43.928505" />
+      <ellipse
+         id="circle171942"
+         cx="-5694.1948"
+         cy="-3161.1379"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#ffffff"
+         stroke-width="35.2192"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         rx="47.719757"
+         ry="43.928505" />
+      <ellipse
+         id="shape042"
+         cx="-5812.9321"
+         cy="-3064.2556"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#ffffff"
+         stroke-width="35.2192"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         rx="47.719757"
+         ry="43.928505" />
+      <ellipse
+         id="shape043"
+         cx="-5713.7183"
+         cy="-3062.0483"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#ffffff"
+         stroke-width="35.2192"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         rx="47.719757"
+         ry="43.928505" />
+      <ellipse
+         id="shape044"
+         cx="-5764.3979"
+         cy="-3136.157"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#ffffff"
+         stroke-width="35.2192"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         rx="47.719757"
+         ry="43.928505" />
+      <ellipse
+         id="shape20"
+         rx="100.53119"
+         ry="78.871323"
+         cx="-6000.0205"
+         cy="-3392.6018"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#ffffff"
+         stroke-width="61.6192"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <ellipse
+         id="shape212"
+         transform="scale(1,-1)"
+         rx="26.186533"
+         ry="30.405296"
+         cx="-5562.981"
+         cy="2860.2881"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#ffffff"
+         stroke-width="61.6192"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+    </symbol>
+    <symbol
+       id="Eye_2.3">
+      <ellipse
+         id="shape069"
+         rx="498.0004"
+         ry="503.08847"
+         cx="-4522.439"
+         cy="-3134.4277"
+         fill="#333333"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="68.5497"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <ellipse
+         id="shape070"
+         rx="380.62137"
+         ry="395.1405"
+         cx="-4518.646"
+         cy="-3135.6733"
+         fill="#000000"
+         stroke="#000000"
+         stroke-width="27.4199"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+    </symbol>
+    <symbol
+       id="Eye_2.4">
+      <ellipse
+         id="ellipse171926"
+         transform="scale(-1,1)"
+         rx="97.949997"
+         ry="370.4097"
+         cx="7025.9556"
+         cy="-1563.6953"
+         fill="none"
+         stroke="#000000"
+         stroke-width="59.9347"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <ellipse
+         id="shape022"
+         transform="matrix(-0.9253738,0.37905584,0.45833301,0.88878054,0,0)"
+         rx="336.2598"
+         ry="109.80288"
+         cx="5540.2422"
+         cy="-4118.1479"
+         fill="none"
+         stroke="#000000"
+         stroke-width="60.0493"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <ellipse
+         id="ellipse171929"
+         transform="matrix(-0.8234583,-0.5673768,-0.65525643,0.75540652,0,0)"
+         rx="350.84018"
+         ry="112.48613"
+         cx="6380.0552"
+         cy="2723.0381"
+         fill="none"
+         stroke="#000000"
+         stroke-width="60.1207"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+    </symbol>
+    <symbol
+       id="Eye_2.5">
+      <path
+         id="shape01412"
+         sodipodi:type="arc"
+         sodipodi:rx="498.17255"
+         sodipodi:ry="471.13226"
+         sodipodi:cx="-5812.1982"
+         sodipodi:cy="-1577.5302"
+         sodipodi:start="5.7494535"
+         sodipodi:end="5.7569015"
+         sodipodi:open="true"
+         fill="#8a8a8a"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         sodipodi:arc-type="arc"
+         d="m -5383.3143,-1817.2185 a 498.17255,471.13226 0 0 1 1.8758,3.0275" />
+      <path
+         id="shape171"
+         sodipodi:type="arc"
+         sodipodi:rx="502.21317"
+         sodipodi:ry="496.44363"
+         sodipodi:cx="-5810.2944"
+         sodipodi:cy="-1589.3868"
+         sodipodi:start="2.810034"
+         sodipodi:end="2.8059453"
+         sodipodi:open="true"
+         fill="none"
+         stroke="#161616"
+         stroke-width="0.48"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         sodipodi:arc-type="arc"
+         d="m -6285.1551,-1427.7859 a 502.21317,496.44363 0 0 1 310.8963,-630.8409 502.21317,496.44363 0 0 1 638.4899,306.6797 502.21317,496.44363 0 0 1 -309.5911,631.4679 502.21317,496.44363 0 0 1 -639.1227,-305.3888"
+         style="stroke:url(#linearGradient456650);stroke-width:18.6214;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         id="shape0191"
+         sodipodi:type="arc"
+         sodipodi:rx="393.70541"
+         sodipodi:ry="386.38095"
+         sodipodi:cx="-5810.1899"
+         sodipodi:cy="-1583.6362"
+         sodipodi:start="5.4827168"
+         sodipodi:end="5.4720359"
+         sodipodi:open="true"
+         fill="none"
+         stroke="#161616"
+         stroke-width="0.48"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         sodipodi:arc-type="arc"
+         d="m -5536.0251,-1860.935 a 393.70541,386.38095 0 0 1 9.1217,545.6217 393.70541,386.38095 0 0 1 -555.9385,10.4089 393.70541,386.38095 0 0 1 -12.0907,-545.5662 393.70541,386.38095 0 0 1 555.874,-13.3224"
+         style="stroke-width:18.6214;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         id="shape24"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m -5724.3466,-1604.456 -79.2389,-176.2708 -77.1752,175.6572 85.2603,162.9457 z" />
+    </symbol>
+    <symbol
+       id="Eye_2.6">
+      <path
+         id="path1682-7"
+         fill="none"
+         stroke="#fefefe"
+         stroke-width="18.7073"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="2.61313"
+         d="m -5085.8684,-1522.1466 c 39.9839,214.1758 209.7171,383.0183 425.0276,422.7874 m 195.3785,0 c 215.3128,-39.7691 385.0464,-208.6116 425.0276,-422.7874 m 0,-194.3582 c -39.9812,-214.1747 -209.7148,-383.0176 -425.0276,-422.7916 m -195.3785,0 c -215.3105,39.774 -385.0437,208.6169 -425.0276,422.7916"
+         style="stroke:#000000;stroke-opacity:1" />
+      <path
+         id="path1684-6"
+         fill="none"
+         stroke="#fefefe"
+         stroke-width="18.7073"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="2.61313"
+         d="m -5011.7476,-1535.9287 c 34.3169,183.8113 179.9806,328.7111 364.7562,362.8476 m 167.6791,0 c 184.7757,-34.1365 330.4369,-179.0363 364.7532,-362.8476 m 0,-166.7938 c -34.3163,-183.8053 -179.9775,-328.7109 -364.7532,-362.8478 m -167.6791,0 c -184.7756,34.1369 -330.4393,179.0425 -364.7562,362.8478"
+         style="stroke:#000000;stroke-opacity:1" />
+      <path
+         id="shape03633"
+         sodipodi:type="arc"
+         sodipodi:rx="82.18058"
+         sodipodi:ry="196.73596"
+         sodipodi:cx="-4563.0112"
+         sodipodi:cy="-1608.7727"
+         sodipodi:start="4.6750525"
+         sodipodi:end="4.5591141"
+         sodipodi:open="true"
+         fill="#000000"
+         stroke="#000000"
+         stroke-width="0.7"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         sodipodi:arc-type="arc"
+         d="m -4566.0789,-1805.3716 a 82.18058,196.73596 0 0 1 85.0676,183.5607 82.18058,196.73596 0 0 1 -74.1795,208.8813 82.18058,196.73596 0 0 1 -89.3671,-171.4536 82.18058,196.73596 0 0 1 68.9997,-218.819" />
+      <path
+         id="shape03634"
+         transform="matrix(0.01741492,0.99984835,-0.99970136,0.02443735,0,0)"
+         sodipodi:type="arc"
+         sodipodi:rx="97.351105"
+         sodipodi:ry="166.08211"
+         sodipodi:cx="-1705.3427"
+         sodipodi:cy="4529.3291"
+         sodipodi:start="4.6750525"
+         sodipodi:end="4.5591141"
+         sodipodi:open="true"
+         fill="#000000"
+         stroke="#000000"
+         stroke-width="0.7"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         sodipodi:arc-type="arc"
+         d="m -1708.9766,4363.3627 a 97.351105,166.08211 0 0 1 100.771,154.9597 97.351105,166.08211 0 0 1 -87.873,176.3351 97.351105,166.08211 0 0 1 -105.8642,-144.7391 97.351105,166.08211 0 0 1 81.737,-184.7243" />
+    </symbol>
+    <symbol
+       id="Eye_2.7">
+      <path
+         id="shape05"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#ffffff"
+         stroke-width="41.3676"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 433.1807,-6776.8241 c 0,-221.5049 -155.2056,-399.5064 -400.953991,-399.5064 -245.749859,0 -507.968909,206.1356 -431.701729,402.0247 28.59755,73.4548 109.5102,114.3084 132.84702,143.8066 92.95916,117.5045 122.69428,96.6507 295.520869,136.5708 261.140531,-70.2355 276.024731,-71.1458 404.287831,-282.8957 z" />
+      <path
+         id="shape5"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="23.3447"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m -245.23607,-6585.3795 c 35.87742,30.0872 64.48755,47.8064 85.83005,53.1573 58.28777,14.6146 191.030429,37.5587 348.46962,0.9667 28.7825,-6.6893 71.6946,-24.7307 128.7432,-54.124 -8.0105,14.1753 -30.7185,28.2516 -42.081,39.3175 -26.9047,26.2052 -43.1105,33.6486 -60.9136,38.0023 -173.397291,42.4073 -263.169341,30.8118 -326.54287,14.4215 -17.46071,-4.5159 -86.50626,-18.1609 -116.09168,-56.2175 -3.99511,-5.1391 -9.79967,-16.9803 -17.41372,-35.5238" />
+      <path
+         id="shape41"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#040001"
+         stroke-width="40.0195"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 453.9743,-6793.7322 c 71.8622,-93.7339 57.8352,-194.4423 -42.081,-302.1236 -72.2248,-77.8375 -159.3214,-92.7517 -194.1956,-99.9463 -185.908091,-38.3546 -312.103111,0.6311 -386.10309,22.1027 -228.21339,66.2199 -317.62794,178.5699 -318.6872,179.932 -44.10361,56.7136 -38.56061,117.7777 16.62911,183.1883 32.03086,35.4757 17.88689,43.7479 96.09326,106.4303 -52.53263,-106.0759 -72.22241,-175.2909 -59.06933,-207.6473 74.48089,-183.225 351.525379,-218.3144 424.4992395,-226.826 70.7848095,-8.2563 136.6819105,3.6604 195.8545105,13.5439 239.9809,40.0826 284.4938,251.7094 267.0601,331.346 z" />
+    </symbol>
+    <symbol
+       id="Eye_2.8">
+      <path
+         id="shape8"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="73.72"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 291.6242,-5626.2938 c -57.7062,-498.3167 -437.5359,-541.2974 -735.48526,-424.1324 -129.65951,50.9876 -133.89492,132.0833 -472.61487,171.9451 76.78974,92.9269 108.21737,96.0273 199.36539,175.7666 549.04287,480.3178 823.00734,121.3796 902.48684,175.768 70.9555,48.5489 78.0212,121.8149 103.1945,157.6156 1.0505,-82.6545 21.2173,-100.1136 3.0534,-256.9629 z" />
+      <path
+         id="shape9"
+         fill="none"
+         stroke="#000000"
+         stroke-width="30.3552"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -665.46276,-5907.0912 c -45.1866,26.17 -72.04836,66.7145 -54.69957,122.8695 8.63468,27.9485 25.80405,83.5728 59.53361,119.4079" />
+      <path
+         id="shape01411"
+         fill="none"
+         stroke="#000000"
+         stroke-width="30.3552"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 200.4327,-5900.0899 c 67.6763,39.1948 61.8436,276.3473 -85.8004,370.3182" />
+      <path
+         id="shape10"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="52.0376"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -869.09609,-5857.3752 73.71905,52.516 84.64043,84.826 c -60.40384,-60.4649 -38.97824,-107.9433 -18.17278,-159.0487 z" />
+      <path
+         id="shape015"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="52.0376"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 281.2683,-5452.5306 -18.5025,-146.0186 1.4114,-154.0321 c -10.5431,91.687 -50.8354,198.1362 -99.1269,205.9752 z" />
+    </symbol>
+    <symbol
+       id="Eye_2.9">
+      <path
+         id="path171867"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#ffffff"
+         stroke-width="59.6471"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 907.2902,-5564.6319 c 390.5194,154.1023 448.1789,79.1316 672.0595,307.5967 193.7092,-212.9526 89.7026,-321.5067 63.4343,-410.6528 -151.9788,-131.2949 -149.6145,-150.809 -380.8499,-217.3539 -229.9528,105.5946 -456.2791,34.68 -354.6439,320.41 z" />
+      <path
+         id="shape112"
+         fill="none"
+         stroke="#000000"
+         stroke-width="51.1741"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 625.3277,-5723.261 c 116.9749,134.48 213.0608,203.184 288.2581,206.1126 183.0855,7.1308 256.5916,44.3207 322.1176,73.7901 92.0154,41.3868 187.704,92.3883 324.2777,188.535 79.5758,56.0186 141.8857,140.9651 186.934,254.8307 -23.5165,-200.4683 -34.2309,-342.0297 -32.1515,-424.6752 6.8891,-273.3561 -155.8984,-375.4112 -334.0574,-436.5355 -183.2692,-62.8783 -327.5432,-8.5974 -400.9612,44.351 -89.0301,64.2067 -207.1691,95.4038 -354.4173,93.5913 z" />
+      <path
+         id="shape020"
+         fill="none"
+         stroke="#000000"
+         stroke-width="52.027"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 913.7461,-5773.6425 c -5.559,-1.7639 -98.4445,111.9649 34.5884,248.4265" />
+      <path
+         id="shape0212"
+         fill="none"
+         stroke="#000000"
+         stroke-width="52.027"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 1711.9728,-5494.6633 c -23.6637,66.5307 -30.6943,259.457 -220.9977,189.2492" />
+      <path
+         id="shape0221"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="51.1741"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 698.1972,-5700.1085 88.9898,94.475 142.9952,80.9902 c -75.8727,-103.6163 -82.5067,-136.4897 -68.5706,-208.9234 z" />
+      <path
+         id="shape023"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="51.1741"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 1699.8179,-5362.6603 5.7734,115.6829 6.7943,123.8822 c -36.7168,-125.7286 -67.3773,-114.4286 -130.9446,-143.0941 z" />
+    </symbol>
+    <symbol
+       id="Eye_3.1">
+      <path
+         id="eyeshape1.8"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="94.0161"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 2443.2276,-5975.7051 c -24.0328,1.6301 -290.8144,42.7041 -343.8381,220.2567 -32.7929,109.8104 37.8885,309.577 306.87,627.2067 262.9815,310.5429 709.3065,-72.013 659.6318,-362.4284 -49.6153,-290.0813 -344.0695,-505.733 -622.6637,-485.035 z" />
+    </symbol>
+    <symbol
+       id="Eye_3.2">
+      <path
+         id="shape01421"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#ffffff"
+         stroke-width="57.7384"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -414.97741,-4403.2286 c 344.909189,-163.4927 388.898229,-150.636 586.63071,-393.0228 171.0854,225.929 207.143,225.4881 183.9429,320.0664 -134.2285,139.2937 -70.8576,82.3701 -275.085901,152.9727 -237.369529,0 -212.112839,26.3294 -495.487709,-80.0163 z" />
+      <path
+         id="shape018"
+         fill="none"
+         stroke="#000000"
+         stroke-width="55.8568"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m -643.264,-4422.5065 c 309.16198,-24.9214 573.159719,-152.0823 791.9932,-381.4825 38.0672,-39.9031 247.9014,252.146 248.417,316.1838 0.3242,40.1032 -82.3252,151.507 -243.3236,197.0908 -101.257301,28.6695 -259.0646,40.7833 -505.42903,-35.3011 -53.62917,-16.5625 -150.8481,-48.7262 -291.65757,-96.491 z" />
+      <path
+         id="shape091"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="55.8568"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 383.087,-4499.4538 -19.9202,62.4047 -65.6197,77.3817 c 104.7468,-127.0605 26.7352,-234.2416 9.3742,-299.5423 z" />
+      <path
+         id="shape0911"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="55.8568"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -559.34109,-4416.0129 66.87723,28.8074 117.65727,48.2456 c -104.74705,-127.0604 -21.50397,-53.5473 -4.14305,-118.8482 z" />
+      <path
+         id="path171856"
+         fill="none"
+         stroke="#161616"
+         stroke-width="32.5831"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="2"
+         d="m -271.08037,-4194.0866 c 313.429729,116.8761 485.02507,31.0678 632.83647,-98.8494" />
+    </symbol>
+    <symbol
+       id="Eye_3.3">
+      <path
+         id="shape12"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="45.1266"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 1751.4022,-4100.6753 72.5901,124.0632 c -65.4321,-38.1884 -111.4431,-53.1561 -138.0342,-44.9009 -244.4943,75.8964 -495.3209,6.1238 -544.8764,-25.0646 -217.6914,-136.9986 -285.7217,-379.4027 -284.3148,-424.6509 27.5762,72.2142 117.1397,201.4538 130.9606,235.3973 96.7244,171.674 129.3727,117.0913 221.4623,158.2209 153.2813,68.4576 194.3622,58.0675 215.188,56.0973 18.5593,-1.7593 231.8144,0.3384 280.2594,-30.2117 11.0635,-11.3735 29.9379,-20.9087 46.765,-48.9506 z" />
+      <path
+         id="shape012"
+         fill="#ffffff"
+         stroke="#000000"
+         stroke-width="43.4171"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 1778.2038,-4054.5395 c -93.4696,-121.1441 -86.503,-369.5615 -282.9617,-565.1763 -341.3939,-339.9314 -495.1376,-127.3877 -649.4933,-96.061 -35.4697,18.4762 55.6065,-18.0027 -54.1291,-51.454 64.3686,82.6614 68.8303,235.1257 108.0082,334.7912 169.3234,430.7259 517.9234,400.0246 680.682,401.6316 112.9384,1.1152 80.2342,-25.3643 197.8939,-23.7315 z" />
+      <path
+         id="shape013"
+         fill="none"
+         stroke="#000000"
+         stroke-width="79.598"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 1757.6839,-4054.2583 c -80.9339,-128.9025 -49.1974,-390.1211 -231.7067,-586.9475 -309.3386,-333.6081 -504.8841,-202.3728 -612.3891,-156.4244" />
+      <path
+         id="shape0121"
+         fill="#828282"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 1569.9076,-4055.0486 c 71.0712,-58.749 86.3815,-78.7743 108.5807,-114.5808 12.3282,-5.9678 -3.9483,12.864 16.7807,41.7743 0,70.6846 37.0056,71.613 -15.7936,71.613 -52.799,0 -43.4321,3.8458 -109.5678,1.1935 z" />
+      <path
+         id="shape0131"
+         fill="none"
+         stroke="#000000"
+         stroke-width="44.1407"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 822.5691,-4785.2398 c -19.3159,59.7428 -111.7666,192.9878 35.9802,269.7476" />
+      <path
+         id="shape089"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="43.4171"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 837.1161,-4605.9283 -103.2639,-33.1753 -118.65,-89.6378 c 103.4428,16.4523 22.9751,42.2443 194.8784,28.8887 z" />
+      <path
+         id="path171827"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="43.4171"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 850.0397,-4558.2769 -85.2891,16.7843 -109.8801,-17.4581 c 81.5663,-28.7813 27.017,21.1297 153.1791,-55.7239 z" />
+      <path
+         id="shape0821"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="43.4171"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 820.7806,-4706.3113 -53.1073,-48.5827 -49.2333,-75.1211 c 57.0382,42.3808 3.8395,23.869 107.9379,79.0533 z" />
+      <path
+         id="shape0831"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="43.4171"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 859.2168,-4507.5684 -43.2163,24.3532 -63.7406,10.1046 c 38.7036,-30.2181 19.1464,6.6792 72.3387,-57.6599 z" />
+      <path
+         id="shape0841"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="43.4171"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 862.4118,-4471.7404 -19.0867,22.5213 -32.525,19.7481 c 15.6694,-24.5564 11.4157,-0.863 29.0866,-46.5134 z" />
+      <path
+         id="shape0851"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="43.4171"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 877.3473,-4431.2043 -3.8327,10.5461 -8.2086,11.4519 c 2.6002,-10.7812 3.4275,-1.8958 4.7429,-20.3382 z" />
+      <path
+         id="shape0861"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="43.4171"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 869.3466,-4741.171 -32.5986,-48.7654 -26.2107,-64.7601 c 36.3175,46.0069 -0.3569,16.7562 68.8797,86.3166 z" />
+      <path
+         id="shape0871"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="43.4171"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 914.0122,-4775.6004 -8.6174,-18.8048 -4.8343,-27.0198 c 10.2827,17.0744 -1.5117,7.8467 19.5791,31.9455 z" />
+      <path
+         id="shape0881"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="43.4171"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 947.9342,-4812.1011 0.075,-5.9964 2.3354,-8.3772 c 0.6579,5.5224 -1.5389,2.3406 1.3314,10.3429 z" />
+      <path
+         id="shape0211"
+         fill="#828282"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 956.8546,-4745.5889 c -56.2403,78.8162 -66.7933,102.9182 -80.6591,144.4094 -10.6509,9.5898 1.089,-13.6581 -25.0767,-35.1767 -14.9863,-68.3224 -50.9521,-57.7488 0.083,-74.1154 51.0346,-16.3666 41.1653,-17.1803 105.6532,-35.1173 z" />
+      <path
+         id="shape031"
+         fill="none"
+         stroke="#000000"
+         stroke-width="25.3266"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 1675.6217,-4238.8252 c 7.4244,46.4459 -3.1178,152.3584 -195.7355,203.1349" />
+      <path
+         id="shape041"
+         fill="none"
+         stroke="#000000"
+         stroke-width="25.3266"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 1073.6201,-4793.9789 c -55.9759,3.4557 -250.0891,45.0284 -205.5672,389.5941" />
+    </symbol>
+    <symbol
+       id="Eye_3.4">
+      <path
+         id="eyeshape1.9"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="51.4901"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 2916.938,-4525.5845 c -100.5674,-256.4028 -390.1485,-335.6795 -586.4357,-213.8755 -190.1264,117.9827 -463.4353,300.0687 -414.5681,517.8291 68.8325,306.7271 590.3025,541.1712 851.381,381.2589 165.4475,-101.3342 155.2566,-670.8425 149.6228,-685.2125 z" />
+    </symbol>
+    <symbol
+       id="Eye_3.5">
+      <path
+         id="shape014"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#ffffff"
+         stroke-width="33.79"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -606.84717,-3311.7003 c 0,-159.2885 206.45077,-178.3646 434.88213,-178.3646 228.435939,0 416.46104,137.4893 416.46104,296.7771 0,159.2892 -188.025101,280.0568 -416.46104,280.0568 -228.43136,0 -434.88213,-239.1816 -434.88213,-398.4693 z" />
+      <path
+         id="shape511"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#040001"
+         stroke-width="32.6888"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 261.3566,-3242.2219 12.1838,-15.9664 1.5946,-4.0758 0.7337,-4.4922 -0.03,-2.2838 0.2513,-1.318 0.134,-4.1378 -0.3987,-4.5188 -0.9078,-4.871 -1.3836,-5.1922 -1.8291,-5.4824 -2.2444,-5.7415 -2.6264,-5.9697 -2.9815,-6.169 -3.3031,-6.3352 -3.5945,-6.4723 -3.8558,-6.578 -4.087,-6.653 -4.2846,-6.6972 -4.4555,-6.7106 -4.5962,-6.6934 -4.7,-6.6453 -4.7804,-6.5664 -4.824,-6.4568 -4.8407,-6.3166 -4.8273,-6.1453 -4.7804,-5.9436 -4.7034,-5.711 -4.5962,-5.4476 -4.4588,-5.1534 -4.2913,-4.8287 -4.0903,-4.4729 -3.8625,-4.0864 -3.6013,-3.6694 -3.3097,-3.2214 -2.9882,-2.7427 -12.5926,-10.6794 -12.8673,-10.0132 -13.1352,-9.3608 -13.3932,-8.7221 -13.6411,-8.0973 -13.875601,-7.4866 -14.1068,-6.8894 -14.3245,-6.306 -14.5322,-5.7364 -14.73319,-5.1809 -14.91745,-4.639 -15.0983495,-4.1109 -15.2691905,-3.5968 -15.42665,-3.0963 -15.57404,-2.6097 -15.71474,-2.137 -15.8454,-1.6781 -15.96264,-1.2329 -16.076539,-0.8016 -16.17369,-0.3841 -16.26414,0.02 -16.34454,0.4094 -16.41488,0.7855 -16.47854,1.1477 -16.52544,1.496 -16.56899,1.8307 -16.59913,2.1514 -16.61924,2.4583 -16.63264,2.7515 -16.63263,3.0307 -16.62594,3.2963 -16.60919,3.5479 -16.57903,3.7858 -16.54219,4.0098 -16.49529,4.22 -16.43499,4.4162 -16.37134,4.599 -16.29094,4.7678 -16.20719,4.9226 -16.10903,5.0637 -16.00251,5.1911 -15.88626,5.3045 -15.75997,5.4042 -15.62396,5.4901 -15.4779,5.5621 -15.32212,5.6202 -15.15664,5.6647 -14.9811,5.6952 -14.79584,5.7119 -14.60088,5.7149 -14.39552,5.7039 -14.18112,5.6793 -13.95634,5.6407 -13.72184,5.5885 -13.47763,5.5223 -13.22337,5.4422 -12.95905,5.3484 -12.68569,5.2409 -12.40195,5.1193 -12.10816,4.9842 -11.80505,4.8351 -11.49176,4.6721 -11.16876,4.4954 13.94344,11.9701 12.44912,10.7867 11.06186,9.6877 9.78227,8.6737 8.60977,7.7418 7.54449,6.8978 6.58672,6.1358 5.73583,5.458 4.99248,4.8666 4.35631,4.3593 3.82735,3.9362 3.40592,3.5973 3.09136,3.3404 2.88466,3.172 2.7845,3.0879 2.79221,3.0856 2.90711,3.1676 3.12921,3.3382 3.45818,3.5884 3.89502,3.9252 4.43906,4.346 5.08995,4.8533 5.84873,5.4425 9.64023,-0.3123 4.29835,4.3659 4.95529,4.8179 5.06315,4.7491 5.13786,4.6828 5.1794,4.6207 5.18845,4.5586 5.16399,4.5011 5.10637,4.4479 5.01625,4.397 12.23044,5.2254 -56.5781,-140.4991 c 216.89427,-111.6086 317.12559,-134.1499 424.33491,-142.8475 134.632229,-10.9225 256.373759,14.034 331.61086,67.6646 59.6162,34.3974 87.2334,68.1121 135.1616,158.353 z" />
+      <path
+         id="shape6"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="19.0685"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m -410.90648,-2976.731 c 35.13892,20.4959 63.16014,32.5666 84.06332,36.2118 57.08797,9.9557 187.09824,25.5857 341.296679,0.6585 28.19006,-4.5569 70.21888,-16.847 126.093181,-36.8703 -7.8457,9.6565 -30.0862,19.2455 -41.214801,26.7839 -26.3509,17.8514 -42.2231,22.922 -59.65975,25.8878 -169.828099,28.8887 -257.752269,20.9896 -319.821309,9.8242 -17.1013,-3.0763 -84.72562,-12.3715 -113.70205,-38.2964 -3.91287,-3.5009 -9.59795,-11.5673 -17.05527,-24.1995" />
+    </symbol>
+    <symbol
+       id="Eye_3.6">
+      <ellipse
+         id="shape011"
+         rx="521.62128"
+         ry="440.18311"
+         cx="1254.1521"
+         cy="-3235.0061"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#ffffff"
+         stroke-width="60.4913"
+         stroke-linecap="square"
+         stroke-linejoin="bevel" />
+      <path
+         id="shape3"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="60.8242"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 687.769,-3332.5217 -137.1904,91.7268 8.7563,-130.0473 4.6976,-15.6993 5.1082,-15.3484 5.4996,-15.0023 5.8719,-14.6607 6.2248,-14.3229 6.5585,-13.9901 6.873,-13.6616 7.1676,-13.3372 7.4438,-13.0169 7.7006,-12.7018 7.9375,-12.3909 8.1562,-12.0841 8.3545,-11.7815 8.5339,-11.484 8.6945,-11.1906 8.8354,-10.901 8.9568,-10.617 9.0599,-10.3361 9.1428,-10.0604 9.2061,-9.7889 c 4.03,-4.1209 6.9084,-7.064 8.6356,-8.8301 4.1108,-4.0178 7.0472,-6.8878 8.8086,-8.6099 4.1916,-3.9131 7.1855,-6.7085 8.9821,-8.3855 1.8308,-1.6319 4.8822,-4.3515 9.1541,-8.1595 4.3527,-3.7007 7.4621,-6.3442 9.3276,-7.93 1.8998,-1.5396 5.0667,-4.1054 9.4997,-7.6983 4.5138,-3.4825 7.7382,-5.9705 9.6727,-7.463 1.9686,-1.4454 5.2505,-3.8541 9.8447,-7.2262 4.6745,-3.2602 8.0134,-5.5886 10.0167,-6.9858 4.7548,-3.1467 8.1512,-5.3942 10.1888,-6.7427 4.8351,-3.0316 8.2885,-5.1973 10.3608,-6.497 2.1064,-1.2495 5.6174,-3.3322 10.5328,-6.2484 4.9952,-2.7984 8.5632,-4.7977 10.7039,-5.9969 2.1753,-1.1489 5.8003,-3.0633 10.8758,-5.7436 5.1554,-2.56 8.8374,-4.3889 11.0469,-5.4861 5.2352,-2.4392 8.9747,-4.1814 11.218,-5.2268 5.315,-2.3167 9.1115,-3.9716 11.3895,-4.9645 2.3117,-0.9398 6.1652,-2.5063 11.56,-4.6994 5.4741,-2.0681 9.3847,-3.5453 11.7306,-4.4316 2.3806,-0.8323 6.3476,-2.2193 11.9016,-4.1611 l 12.0716,-3.8877 12.2427,-3.6116 12.4122,-3.3328 12.5823,-3.0511 12.7523,-2.7668 12.9224,-2.4797 13.0919,-2.1898 13.2609,-1.8971 13.4305,-1.6018 13.6001,-1.3036 13.7676,-1.0026 13.9407,-0.699 14.1042,-0.3926 14.2728,-0.083 14.4463,0.2286 14.6099,0.5432 14.7834,0.8607 14.9471,1.181 15.1155,1.5039 15.2842,1.8296 c 48.2072,3.2049 95.3833,12.3411 141.5233,27.4086 170.3514,55.6298 330.6787,157.8518 409.3154,332.9733 12.7607,28.4203 20.1574,65.7329 22.1801,111.9378 -27.4748,-78.3741 -58.1422,-133.3065 -92.0072,-164.7973 -206.9829,-143.6245 -381.1417,-212.5491 -522.4716,-206.774 -235.2384,9.6127 -291.9167,120.8187 -318.742,135.2582 -23.9078,12.8692 -61.1489,51.2183 -111.7239,115.0472 -9.5453,19.7026 -19.1297,50.7964 -28.7523,93.2814 z" />
+      <path
+         id="shape4"
+         fill="none"
+         stroke="#000000"
+         stroke-width="35.4808"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="M 819.8021,-2961.227 C 690.216,-3056.9328 687.7657,-3223.1734 695.7069,-3350.3907" />
+      <path
+         id="shape02"
+         fill="none"
+         stroke="#000000"
+         stroke-width="35.4808"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 1676.2448,-2897.2346 c 48.4527,-47.0895 78.4458,-80.9715 100.0224,-198.4056 23.8915,-130.0336 13.2497,-224.2315 -1.8629,-266.4472" />
+      <path
+         id="shape03"
+         fill="none"
+         stroke="#000000"
+         stroke-width="35.4808"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 1453.9671,-2799.3783 c -148.5651,86.0643 -327.8193,17.8897 -461.5211,-43.8787" />
+    </symbol>
+    <symbol
+       id="Eye_3.7">
+      <circle
+         id="eyeshape2.1"
+         cx="2499.2263"
+         cy="-3169.4656"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         stroke="#1a1a1a"
+         stroke-width="62.6244"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         r="497.85446" />
+    </symbol>
+    <symbol
+       id="Eye_3.8">
+      <path
+         id="eyebrow1.1"
+         fill="none"
+         stroke="#000000"
+         stroke-width="75.9648"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 5713.0395,-5823.4704 c 67.5112,569.9776 -1564.676,-564.6807 -1488.6786,76.9442" />
+    </symbol>
+    <symbol
+       id="Eye_3.9">
+      <path
+         id="eyebrow1.2"
+         fill="none"
+         stroke="#000000"
+         stroke-width="147.553"
+         stroke-linecap="round"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 4273.8613,-5279.1016 1399.3658,0.3287" />
+    </symbol>
+    <symbol
+       id="Eye_4.1">
+      <path
+         id="eyebrow1.3"
+         fill="#020202"
+         stroke="#000000"
+         stroke-width="33.025"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 5317.4668,-5012.033 c 51.0965,-62.6733 220.2053,-73.6592 300.5988,73.5426 80.3936,147.2031 17.1658,325.896 -142.5039,402.748 -159.6705,76.8477 -774.6679,187.9496 -863.1096,44.6195 -88.4425,-143.3301 377.4347,-288.329 532.6446,-372.4054 155.2115,-84.0764 104.4742,-65.226 172.3701,-148.5047 z" />
+    </symbol>
+    <symbol
+       id="Eye_4.2">
+      <path
+         id="eyebrow1.4"
+         fill="#000000"
+         stroke="#000000"
+         stroke-width="26.313"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 4417.6783,-3897.1797 c -18.6387,-72.0434 291.1289,-169.738 432.436,-206.3091 332.1027,-85.9504 655.257,-59.5329 777.4462,-6.6022 77.3588,33.5075 -50.8446,262.8817 -165.3773,225.9002 -68.3388,-22.0659 -153.8533,-125.6821 -198.022,-146.7454 -53.141,-25.3431 -254.4731,-17.1893 -318.5724,-5.1722 -106.0906,19.8841 -248.1655,61.9152 -395.0848,178.9412 -32.6066,25.9717 -114.4318,31.0901 -132.8257,-40.0055 z" />
+    </symbol>
+    <symbol
+       id="Eye_4.3">
+      <path
+         id="eyebrow1.5"
+         fill="#020202"
+         fill-rule="evenodd"
+         stroke="#020202"
+         stroke-width="20.8038"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 5506.7865,-3421.06 -4.1211,157.0074 -22.6662,69.8393 -59.7543,-78.2403 -86.5415,72.4641 -61.8155,-93.4693 -41.2114,29.4062 -41.2092,-18.9045 -49.4531,50.9361 -57.6949,-50.9361 -45.3299,39.9084 -37.0906,-50.4101 -47.3916,67.214 -39.1496,-56.7123 -57.6952,31.5067 14.4247,28.3561 -55.6334,3.1479 37.0881,31.5065 h -103.025 l 47.3916,53.0356 -67.9959,-11.0265 -119.5112,40.4326 -140.1152,50.4111 55.6339,-107.1222 55.6341,-130.7521 41.2104,50.4099 80.3599,-120.7742 88.6013,49.3593 20.6069,-86.1171 41.2092,50.4104 126.7229,-82.4422 1.0286,61.4378 61.8161,-43.0587 37.088,43.0587 4.1202,-60.9122 164.8435,50.4099 82.4203,-60.9122 v 71.4145 l 87.5102,-49.2557 19.6354,70.2601 z" />
+    </symbol>
+    <symbol
+       id="Eye_4.4">
+      <path
+         id="eyebrow1.6"
+         fill="#000000"
+         stroke="#000000"
+         stroke-width="53.9628"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 7027.0731,-6088.1969 c 76.6214,14.3094 248.9253,114.0613 239.5894,262.0695 -9.3359,148.0081 -126.7491,257.499 -201.7137,243.3056 -74.9654,-14.1853 -146.8633,-198.3046 -870.7932,-103.8313 4.9886,-148.8325 759.7605,-415.1988 832.9175,-401.5438 z" />
+    </symbol>
+    <symbol
+       id="Eye_4.5">
+      <path
+         id="eyebrow1.7"
+         fill="#020202"
+         fill-rule="evenodd"
+         stroke="#020202"
+         stroke-width="29.1678"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 7146.7137,-5201.7887 v 163.9165 l -512.7964,-214.3523 -546.5335,201.7435 576.896,-277.397 445.3236,148.7858 37.1103,-22.6965" />
+    </symbol>
+    <symbol
+       id="Eye_4.6">
+      <path
+         id="eyebrow1.8"
+         fill="#000000"
+         stroke="#000000"
+         stroke-width="32.3021"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 6597.7347,-4853.8662 c 35.7552,-23.3761 584.2004,164.4 579.2023,263.4664 -4.9981,99.0678 -506.3436,-125.3435 -546.4759,-134.8435 -40.1329,-9.4945 -126.2047,38.4175 -554.6606,176.3354 59.937,-68.4993 456.5939,-262.2342 521.9342,-304.9583 z" />
+    </symbol>
+    <symbol
+       id="Eye_4.7">
+      <path
+         id="eyebrow1.9"
+         fill="#020202"
+         fill-rule="evenodd"
+         stroke="#020202"
+         stroke-width="31.5066"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 7118.1616,-4209.8872 v 298.2817 c -228.0381,-71.7096 -393.369,-115.9003 -495.9929,-132.5701 -76.7995,-12.473 -133.2769,-3.8751 -161.738,3.6843 -87.4161,23.2269 -213.2113,96.8765 -377.3865,220.9516 96.5663,-205.5648 184.6231,-341.8174 264.1706,-408.7587 49.3346,-41.5162 114.4232,-50.7433 145.5623,-55.2373 44.5452,-6.4284 123.6161,-1.5188 237.2158,14.7299 l 388.1687,58.9204" />
+    </symbol>
+    <symbol
+       id="Eye_4.8">
+      <path
+         id="eyebrow2.1"
+         fill="#000000"
+         stroke="#000000"
+         stroke-width="28.5327"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 6924.3307,-3529.4315 c 75.5475,10.4629 245.4373,83.4462 236.2318,191.7291 -9.2049,108.2828 -124.9725,188.3875 -198.8872,178.0028 -73.9147,-10.3822 -144.8055,-145.079 -858.5927,-75.9625 4.9203,-108.8851 749.116,-303.7597 821.2481,-293.7694 z" />
+    </symbol>
+    <rect
+       x="3482.5009"
+       y="18412.398"
+       width="1592.0952"
+       height="323.72232"
+       id="rect495878" />
+    <rect
+       x="3482.5009"
+       y="18412.398"
+       width="1592.0952"
+       height="323.72232"
+       id="rect504764" />
+    <symbol
+       id="z_artist_info">
+      <g
+         id="z_artist_info_transform"
+         transform="matrix(0.26458333,0,0,0.26458333,982.8906,3650.0551)"
+         inkscape:label="z artist info">
+        <text
+           xml:space="preserve"
+           transform="scale(0.26458333)"
+           id="text504988"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect495878);fill:#000000;fill-opacity:1;stroke:none"><tspan
+             x="3482.5"
+             y="18447.789"
+             id="tspan511950">My Portfolio: https://humandoomfox.artstation.com/
+</tspan><tspan
+             x="3482.5"
+             y="18497.789"
+             id="tspan511952">My Website: https://ryosworkshop500.wixsite.com/website
+</tspan><tspan
+             x="3482.5"
+             y="18547.789"
+             id="tspan511954">My Discord:firebreather500#7176
+</tspan><tspan
+             x="3482.5"
+             y="18597.789"
+             id="tspan511956">My Instagram: https://www.instagram.com/ryosworkshop500/
+</tspan><tspan
+             x="3482.5"
+             y="18647.789"
+             id="tspan511958">My Email: ryosworkshop500@gmail.com </tspan></text>
+      </g>
+    </symbol>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <use
+       xlink:href="#Eye_1.1"
+       id="use457684"
+       transform="translate(-231.51042,9.921875)" />
+    <use
+       xlink:href="#Eye_1.2"
+       id="use457721"
+       transform="translate(-79.375,-19.84375)" />
+    <use
+       xlink:href="#Eye_1.3"
+       id="use457782"
+       transform="translate(-89.296875)" />
+    <use
+       xlink:href="#Eye_1.4"
+       id="use457981" />
+    <use
+       xlink:href="#Eye_1.5"
+       id="use458086" />
+    <use
+       xlink:href="#Eye_1.6"
+       id="use458212" />
+    <use
+       xlink:href="#Eye_1.7"
+       id="use458676" />
+    <use
+       xlink:href="#Eye_1.8"
+       id="use458825" />
+    <use
+       xlink:href="#Eye_1.9"
+       id="use458985" />
+    <use
+       xlink:href="#Eye_2.1"
+       id="use459976" />
+    <use
+       xlink:href="#Eye_2.2"
+       id="use460162" />
+    <use
+       xlink:href="#Eye_2.3"
+       id="use460362" />
+    <use
+       xlink:href="#Eye_2.4"
+       id="use461769"
+       transform="translate(-65.481034,-18.708867)" />
+    <use
+       xlink:href="#Eye_2.5"
+       id="use461985"
+       transform="translate(-84.189901,37.417734)" />
+    <use
+       xlink:href="#Eye_2.6"
+       id="use462211"
+       transform="translate(9.3544335,65.481034)" />
+    <use
+       xlink:href="#Eye_2.7"
+       id="use463586" />
+    <use
+       xlink:href="#Eye_2.8"
+       id="use463831" />
+    <use
+       xlink:href="#Eye_2.9"
+       id="use464089" />
+    <use
+       xlink:href="#Eye_3.1"
+       id="use464356" />
+    <use
+       xlink:href="#Eye_3.2"
+       id="use469519"
+       transform="translate(-28.0633,84.189901)" />
+    <use
+       xlink:href="#Eye_3.3"
+       id="use469818" />
+    <use
+       xlink:href="#Eye_3.4"
+       id="use470137" />
+    <use
+       xlink:href="#Eye_3.5"
+       id="use470462" />
+    <use
+       xlink:href="#Eye_3.6"
+       id="use470797" />
+    <use
+       xlink:href="#Eye_3.7"
+       id="use471140" />
+    <use
+       xlink:href="#Eye_3.8"
+       id="use475249" />
+    <use
+       xlink:href="#Eye_3.9"
+       id="use475600" />
+    <use
+       xlink:href="#Eye_4.1"
+       id="use475955" />
+    <use
+       xlink:href="#Eye_4.2"
+       id="use476314" />
+    <use
+       xlink:href="#Eye_4.3"
+       id="use476677" />
+    <use
+       xlink:href="#Eye_4.4"
+       id="use480664" />
+    <use
+       xlink:href="#Eye_4.5"
+       id="use481035" />
+    <use
+       xlink:href="#Eye_4.6"
+       id="use481410" />
+    <use
+       xlink:href="#Eye_4.7"
+       id="use481789" />
+    <use
+       xlink:href="#Eye_4.8"
+       id="use482172" />
+    <use
+       xlink:href="#z_artist_info"
+       id="use506226" />
+  </g>
+</svg>
