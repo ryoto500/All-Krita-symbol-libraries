@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg482958"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Phonetics.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:krita="http://krita.org/namespaces/svg/krita">
+  <sodipodi:namedview
+     id="namedview482960"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.01"
+     inkscape:cx="-14850"
+     inkscape:cy="2750"
+     inkscape:window-width="1920"
+     inkscape:window-height="1047"
+     inkscape:window-x="-10"
+     inkscape:window-y="-10"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs482955">
+    <rect
+       x="3482.5009"
+       y="18412.398"
+       width="1592.0952"
+       height="323.72232"
+       id="rect495878" />
+    <rect
+       x="3482.5009"
+       y="18412.398"
+       width="1592.0952"
+       height="323.72232"
+       id="rect509680" />
+    <symbol
+       id="z_artist_info">
+      <g
+         id="z_artist_info_transform"
+         transform="matrix(0.26458333,0,0,0.26458333,837.36977,3438.3885)"
+         inkscape:label="z artist info">
+        <text
+           xml:space="preserve"
+           transform="scale(0.26458333)"
+           id="text509806"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect495878);fill:#000000;fill-opacity:1;stroke:none"><tspan
+             x="3482.5"
+             y="18447.789"
+             id="tspan294260">My Portfolio: https://humandoomfox.artstation.com/
+</tspan><tspan
+             x="3482.5"
+             y="18497.789"
+             id="tspan294262">My Website: https://ryosworkshop500.wixsite.com/website
+</tspan><tspan
+             x="3482.5"
+             y="18547.789"
+             id="tspan294264">My Discord:firebreather500#7176
+</tspan><tspan
+             x="3482.5"
+             y="18597.789"
+             id="tspan294266">My Instagram: https://www.instagram.com/ryosworkshop500/
+</tspan><tspan
+             x="3482.5"
+             y="18647.789"
+             id="tspan294268">My Email: ryosworkshop500@gmail.com </tspan></text>
+      </g>
+    </symbol>
+    <symbol
+       id="A">
+      <path
+         id="path172442"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.4702"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 12.4381,2733.5544 c 98.6088,52.8938 203.2683,28.1823 331.385,35.836 97.634,0.399 293.0829,-2.3251 352.7258,-30.6385 52.1838,-33.6118 -71.9767,112.7383 -142.3196,184.6181 -26.0005,32.5926 -46.9623,74.5703 -81.327,104.8137 -34.3663,30.2416 -85.5233,35.0986 -130.757,34.4234 -43.5474,-0.2349 -85.8211,-8.4244 -114.0899,-34.8985 -28.2704,-26.4758 -58.1747,-79.5456 -86.4017,-108.7309 -53.2842,-37.894 -183.7262,-224.5478 -129.2156,-185.4233 z" />
+      <path
+         id="path172444"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.4702"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 60.5176,2829.9322 c 8.9657,-18.4578 35.3184,9.4334 47.9554,18.458 9.0232,6.4437 18.1373,-29.9652 29.3458,-25.1028 68.4387,29.6891 310.1072,10.9229 404.5089,10.8932 12.5723,5.0744 4.7089,10.0769 27.4095,21.8894 0.9895,-4.1004 22.0071,-20.8664 38.7268,-25.9989 16.7197,-5.1326 18.6395,-3.4424 28.6408,-5.5197" />
+      <path
+         id="shape28"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.4702"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 186.8173,2960.217 c 24.3007,-68.496 296.1647,-84.1512 328.8463,6.4839" />
+      <path
+         id="path172447"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.4702"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -22.4231,2745.6198 c -2.0566,-19.0438 59.4141,-39.2814 40.7905,-39.2814" />
+      <path
+         id="path172449"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.4702"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 732.9509,2742.9945 c 2.0567,-19.0438 -59.4141,-39.2814 -40.7905,-39.2814" />
+      <path
+         id="path172451"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.4702"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 244.9088,3102.2892 c 41.2824,59.4629 208.9904,39.6736 232.5401,1.8992" />
+    </symbol>
+    <symbol
+       id="E2">
+      <path
+         id="path172496"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -2720.0494,276.45106 c 104.6431,50.9521 215.7071,27.1478 351.6639,34.5205 103.6086,0.3844 311.0178,-2.2398 374.3105,-29.5137 55.3771,-32.378 -76.3813,108.5996 -151.0287,177.8406 -27.5917,31.3962 -49.8362,71.8329 -86.3037,100.966 -36.4694,29.1314 -90.7569,33.8101 -138.7587,33.1597 -46.2122,-0.2263 -91.0728,-8.1152 -121.0714,-33.6174 -30.0004,-25.5038 -61.7347,-76.6255 -91.689,-104.7394 -56.5449,-36.5028 -194.9692,-216.3045 -137.1229,-178.6163 z" />
+      <path
+         id="path172498"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -2669.0277,369.29076 c 9.5143,-17.7802 37.4797,9.0871 50.89,17.7804 9.5754,6.2071 19.2471,-28.8651 31.1416,-24.1813 72.6267,28.5993 329.0839,10.522 429.2624,10.4933 13.3417,4.8881 4.9971,9.707 29.0868,21.0858 1.05,-3.9498 23.3538,-20.1003 41.0967,-25.0444 17.7428,-4.9442 19.7801,-3.316 30.3935,-5.317" />
+      <path
+         id="path172500"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -2534.9992,494.79276 c 25.7877,-65.9814 314.2882,-81.0619 348.9698,6.2459" />
+      <path
+         id="path172502"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -2757.0438,288.07356 c -2.1825,-18.3447 63.0498,-37.8394 43.2866,-37.8394" />
+      <path
+         id="path172504"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -1955.4455,285.54466 c 2.1825,-18.3447 -63.0498,-37.8394 -43.2866,-37.8394" />
+      <path
+         id="path172506"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m -2473.3528,631.64946 c 43.8086,57.28 221.7794,38.2172 246.7702,1.8295" />
+      <path
+         id="shape113"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -2516.0618,522.69896 c 5.1762,16.2157 20.3907,-8.2874 27.6864,-16.2157 5.2096,-5.661 10.4714,26.3251 16.9425,22.0534 39.5123,-26.0827 179.037,-9.5961 233.5381,-9.5699 7.2587,-4.458 2.7194,-8.8529 15.8241,-19.2305 0.5726,3.6023 12.7063,18.3317 22.3594,22.8408" />
+    </symbol>
+    <symbol
+       id="E1">
+      <path
+         id="shape29"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -4639.1846,237.82038 c 104.6431,50.9521 237.8263,43.3311 373.7831,50.7038 103.6086,0.3844 309.4939,-6.507 372.7867,-33.7809 55.377,-32.3779 -59.0873,87.0456 -136.6191,160.3094 -55.1833,62.7923 -140.1641,99.3667 -236.1676,98.0659 -85.6737,-1.16 -161.3819,-42.341 -226.0776,-98.0659 -56.5448,-36.5027 -205.5518,-214.9206 -147.7055,-177.2323 z" />
+      <path
+         id="shape30"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -4569.1543,342.57628 c 9.539,-17.7802 37.577,9.0871 51.0221,17.7804 9.6001,6.2071 19.297,-28.8651 31.2224,-24.1813 72.815,28.5993 329.9372,10.522 430.376,10.4933 13.3758,4.8881 5.0096,9.707 29.1622,21.0858 1.0536,-3.9498 23.4148,-20.1003 41.2025,-25.0444 17.7895,-4.9442 19.8322,-3.316 30.4725,-5.317" />
+      <path
+         id="path172483"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -4438.6054,446.05658 c 64.6255,-29.6292 300.0759,-49.8515 356.2967,9.2173" />
+      <path
+         id="path172485"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -4673.8596,240.73388 c -2.1825,-18.3447 63.0498,-37.8394 43.2866,-37.8394" />
+      <path
+         id="path172487"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -3853.9847,258.83008 c 2.1825,-18.3447 -63.0498,-37.8394 -43.2866,-37.8394" />
+      <path
+         id="path172490"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m -4375.9262,546.58698 c 43.3096,57.6101 221.4401,39.8964 246.7462,3.6993" />
+      <path
+         id="path172492"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.6524"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -4401.9086,467.97208 c 4.3572,12.6005 16.9217,-9.5142 23.6558,-15.4818 4.8084,-4.2611 8.9393,20.4967 14.859,17.3313 36.146,-19.3276 161.6923,-3.8782 210.8577,-2.787 6.6337,-3.2935 2.6234,-6.7702 14.6449,-14.5115 0.4475,2.7879 11.11,14.3795 19.7298,18.0446" />
+    </symbol>
+    <symbol
+       id="F_V">
+      <path
+         id="shape44"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.4903"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 6831.0285,3825.442 c -53.2832,-42.7343 -185.5128,-257.5238 -131.0033,-213.402 98.607,59.6499 203.2646,31.7821 331.379,40.4133 97.6321,0.45 293.0774,-2.6221 352.7192,-34.5519 52.1828,-37.905 -55.0666,115.6553 -125.4082,196.7154" />
+      <path
+         id="shape118"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.4903"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 6770.5023,3750.8875 c 3.8116,-3.5326 17.7888,-1.1259 23.5456,3.5976 9.9349,8.1517 16.8935,23.5827 24.4538,30.0262 8.5263,7.2668 11.4653,-34.9208 22.0566,-29.4373 64.6703,33.4812 287.4396,11.5728 376.6419,11.5392 11.8803,5.7225 6.8569,16.7471 28.3088,30.0684 0.9336,-4.6241 11.6638,-24.1861 24.0718,-37.8842 15.7976,-5.7881 23.7505,-5.502 33.2021,-7.8446" />
+      <path
+         id="shape312"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.4903"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 6665.1647,3625.6465 c -2.0566,-21.4763 59.413,-44.2988 40.7898,-44.2988" />
+      <path
+         id="path172592"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.4903"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 7420.5245,3622.6859 c 2.0566,-21.4763 -59.4129,-44.2988 -40.7897,-44.2988" />
+      <path
+         id="shape0115"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.4903"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 6807.3474,3850.4202 c 47.0832,-61.6979 205.7332,-58.5385 225.3256,-13.322" />
+      <path
+         id="shape0116"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.4903"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 7014.7323,3857.9136 c 35.8754,-71.1221 238.7321,-64.0941 265.511,-24.1456" />
+    </symbol>
+    <symbol
+       id="M_B_P">
+      <path
+         id="path172577"
+         fill="none"
+         stroke="#000000"
+         stroke-width="18.3044"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 5027.3696,2974.1061 c 104.8401,61.448 221.6429,45.8347 357.8557,54.7261 103.8036,0.4635 312.5186,-16.1204 375.9304,-49.0126" />
+      <path
+         id="path172579"
+         fill="none"
+         stroke="#000000"
+         stroke-width="18.3044"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 4995.8352,3001.2172 c -2.1866,-22.1235 63.1685,-45.6339 43.3681,-45.6339" />
+      <path
+         id="path172581"
+         fill="none"
+         stroke="#000000"
+         stroke-width="18.3044"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 5798.9426,2998.1674 c 2.1865,-22.1235 -63.1687,-45.6339 -43.3682,-45.6339" />
+      <path
+         id="shape0114"
+         fill="none"
+         stroke="#000000"
+         stroke-width="18.3044"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 5216.7283,3088.1877 c 43.8911,69.0793 317.0575,57.3974 342.0954,13.5141" />
+    </symbol>
+    <symbol
+       id="O1">
+      <path
+         id="path172461"
+         fill="none"
+         stroke="#000000"
+         stroke-width="29.0715"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m -1575.9807,-260.74042 c 122.8363,143.22886 412.0907,82.50128 455.8265,7.98956" />
+      <path
+         id="path172463"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="29.0715"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -1156.8157,-467.11748 c -43.2154,-112.49024 -145.7775,-179.9418 -183.2259,-167.71937 -84.4933,3.10731 -146.8078,81.86684 -183.2274,167.71937 36.7346,89.57368 83.8227,123.29483 190.4184,158.43428 101.1939,-32.84775 143.6238,-72.68012 176.0349,-158.43428 z" />
+    </symbol>
+    <symbol
+       id="O2">
+      <path
+         id="path172467"
+         fill="none"
+         stroke="#000000"
+         stroke-width="25.8032"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m -2444.7993,-92.740051 c 113.1223,122.524675 379.5023,70.575438 419.7795,6.834658" />
+      <path
+         id="path172469"
+         fill="none"
+         stroke="#000000"
+         stroke-width="25.8032"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m -2450.1118,-451.31371 c 113.1224,-122.52466 379.5024,-70.57542 419.7796,-6.83466" />
+      <path
+         id="path172471"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="25.8032"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m -2063.9535,-273.75595 c -39.7979,-96.2294 -134.2493,-153.93059 -168.7363,-143.47503 -77.8116,2.65817 -135.1983,70.03277 -168.7377,143.47503 33.8296,76.62556 77.1939,105.47216 175.36,135.53209 93.1914,-28.09949 132.266,-62.17395 162.114,-135.53209 z" />
+    </symbol>
+    <symbol
+       id="T_S2">
+      <path
+         id="path172539"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.5065"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 5781.9082,139.70562 c 99.6927,59.1096 205.5026,31.4942 335.0276,40.0472 98.7071,0.4459 318.7893,-30.8656 369.2809,-135.480905 52.7574,-37.5615999 -85.4459,227.227505 -156.562,307.554205 -26.2864,36.4226 -388.5734,27.7064 -417.1106,-4.9085 -53.8699,-42.3463 -185.7457,-250.933904 -130.6359,-207.212 z" />
+      <path
+         id="shape115"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.5065"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 5839.6976,248.12442 c 4.0781,-3.5007 19.0325,-1.1157 25.1916,3.5649 10.6294,8.0779 18.0743,23.3691 26.1632,29.7542 9.1224,7.2009 12.2668,-34.6044 23.5985,-29.1706 69.191,33.1779 307.5324,11.468 402.9717,11.4347 14.9096,0.7931 13.215,0.047 26.3599,30.1311 4.4819,-6.3643 12.7515,-37.921 26.0264,-51.4952 28.7487,-21.3217 55.189,-51.5743 62.5899,-58.8112" />
+      <path
+         id="path172542"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.5065"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 5746.6638,153.18892 c -2.0792,-21.2817 60.0672,-43.8974 41.2389,-43.8974" />
+      <path
+         id="path172544"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.5065"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 6518.8678,60.626015 c 1.7679,-20.629 -51.0719,-42.5512 -35.0631,-42.5512" />
+      <path
+         id="path172546"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.5065"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 5953.2963,455.86472 c 41.7361,66.4505 301.4909,55.2131 325.2994,12.9997" />
+    </symbol>
+    <symbol
+       id="T_S1">
+      <path
+         id="path172529"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.5065"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 4702.166,1050.4772 c 99.6927,59.1095 205.5026,31.4941 335.0276,40.0472 98.7071,0.4459 296.3044,-2.5984 356.6029,-34.2389 52.7573,-37.5615 -72.7679,125.9862 -143.884,206.3127 -26.2864,36.4226 -388.5734,27.7064 -417.1106,-4.9085 -53.8699,-42.3468 -185.7457,-250.9345 -130.6359,-207.2125 z" />
+      <path
+         id="shape114"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.5065"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 4759.9554,1158.8959 c 4.0781,-3.5006 19.0325,-1.1156 25.1916,3.565 10.6294,8.0779 18.0743,23.369 26.1632,29.7541 9.1224,7.2009 12.2668,-34.6043 23.5985,-29.1706 69.191,33.1779 307.5324,11.468 402.9717,11.4347 12.7105,5.6707 7.336,16.5954 30.2861,29.7959 1.0003,-4.5821 12.4796,-23.9669 25.7545,-37.5409 16.9035,-5.7357 25.4125,-5.4521 35.5238,-7.7735" />
+      <path
+         id="path172532"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.5065"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 4666.9216,1063.9605 c -2.0792,-21.2817 60.0672,-43.8974 41.2389,-43.8974" />
+      <path
+         id="path172534"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.5065"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 5430.5986,1061.0267 c 2.0792,-21.2817 -60.0672,-43.8974 -41.2389,-43.8974" />
+      <path
+         id="path172536"
+         fill="none"
+         stroke="#000000"
+         stroke-width="17.5065"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 4871.8395,1330.8138 c 41.7361,66.4505 301.4909,55.2131 325.2994,12.9997" />
+    </symbol>
+    <symbol
+       id="U_Q">
+      <path
+         id="shape117"
+         fill="none"
+         stroke="#000000"
+         stroke-width="27.4219"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 4166.8435,-1472.2838 c 124.4763,125.7559 417.5923,72.4366 461.9121,7.0148" />
+      <path
+         id="path172569"
+         fill="#000000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="27.4219"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 4527.0983,-1668.4055 c -14.3736,-117.7378 -76.3862,-168.2749 -114.3346,-157.5436 -85.6214,2.7283 -139.8515,55.6056 -145.7899,160.3891 -6.3668,48.3833 11.7614,51.8797 16.596,50.8844 21.6387,1.2568 53.2507,77.2866 111.6751,67.7424 65.3318,16.8013 103.397,-58.6109 119.4669,-65.5091 24.3879,-10.469 11.2552,-16.2947 12.3865,-55.9632 z" />
+    </symbol>
+    <symbol
+       id="L_N">
+      <path
+         id="path172554"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.1802"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 4476.5684,1106.774 c 98.6094,82.5162 203.2693,43.9654 331.3867,55.9054 97.6344,0.6225 293.0842,-3.6273 352.7274,-47.797 52.184,-52.4356 -71.9771,175.876 -142.3203,288.0094 -26.0007,50.846 -384.3504,38.6783 -412.5775,-6.8523 -53.2845,-59.1157 -183.727,-350.3009 -129.2163,-289.2655 z" />
+      <path
+         id="shape116"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.1802"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 4492.4211,1170.9339 c 4.0338,-3.0231 60.1344,25.3192 66.2266,29.3614 10.5139,6.9762 17.8779,20.1817 25.8789,25.6959 9.0232,6.2188 12.1334,-29.8845 23.342,-25.1919 68.4397,28.6527 304.1895,9.9037 398.5916,9.875 12.5724,4.8973 7.2563,14.3319 29.957,25.732 0.9894,-3.9571 12.344,-20.698 25.4746,-32.4205 16.7198,-4.9535 67.9008,-25.5483 77.9022,-27.5531" />
+      <path
+         id="shape310"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.1802"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 4441.7071,1115.2297 c -2.0566,-18.379 59.4144,-37.9101 40.7907,-37.9101" />
+      <path
+         id="path172558"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.1802"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 5197.0846,1112.6961 c 2.0567,-18.379 -59.4144,-37.9101 -40.7907,-37.9101" />
+      <path
+         id="shape0113"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.1802"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 4623.0495,1400.0136 c 108.0719,-86.1041 188.0684,-93.5836 241.194,-163.0996 76.0727,-59.9124 128.5387,-30.3437 130.7865,24.3533 8.7566,71.4102 -21.3713,91.7962 -91.7541,163.5663" />
+      <path
+         id="path172561"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.1802"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 4786.1,1430.3934 c 55.4246,-19.3863 182.9923,-142.2062 128.8995,-119.4109" />
+    </symbol>
+    <symbol
+       id="W_R">
+      <path
+         id="path172515"
+         fill="none"
+         stroke="#000000"
+         stroke-width="25.3214"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="1.92"
+         d="m 6260.6957,4359.02 c -100.1427,-48.6371 -110.9938,-223.2547 -203.0819,-223.2547 -92.0871,0 -83.0384,102.2129 -213.7799,220.5398 124.3831,92.8038 117.8518,198.292 209.9389,198.292 92.0857,0 117.9092,-121.0549 206.9229,-195.5771 z" />
+      <path
+         id="path172517"
+         fill="none"
+         stroke="#000000"
+         stroke-width="25.3214"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 5890.4452,4553.5105 c 89.419,149.2693 299.9824,85.9806 331.82,8.3266" />
+      <path
+         id="path172519"
+         fill="none"
+         stroke="#000000"
+         stroke-width="25.3214"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 5886.2459,4116.6677 c 89.419,-149.2693 299.9824,-85.9806 331.8201,-8.3266" />
+      <path
+         id="path172521"
+         fill="none"
+         stroke="#000000"
+         stroke-width="25.3214"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 5952.3535,4469.7823 c 54.9372,-82.5591 182.3617,-46.2555 201.3098,-2.8963" />
+    </symbol>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="use218276"
+       transform="translate(-8288.9601,-1562.2336)">
+      <g
+         id="g293182"
+         inkscape:label="W/R"
+         transform="translate(-4392.0833,-410.10417)">
+        <path
+           id="path293174"
+           fill="none"
+           stroke="#000000"
+           stroke-width="25.3214"
+           stroke-linecap="square"
+           stroke-linejoin="miter"
+           stroke-miterlimit="1.92"
+           d="m 6260.6957,4359.02 c -100.1427,-48.6371 -110.9938,-223.2547 -203.0819,-223.2547 -92.0871,0 -83.0384,102.2129 -213.7799,220.5398 124.3831,92.8038 117.8518,198.292 209.9389,198.292 92.0857,0 117.9092,-121.0549 206.9229,-195.5771 z" />
+        <path
+           id="path293176"
+           fill="none"
+           stroke="#000000"
+           stroke-width="25.3214"
+           stroke-linecap="round"
+           stroke-linejoin="bevel"
+           d="m 5890.4452,4553.5105 c 89.419,149.2693 299.9824,85.9806 331.82,8.3266" />
+        <path
+           id="path293178"
+           fill="none"
+           stroke="#000000"
+           stroke-width="25.3214"
+           stroke-linecap="round"
+           stroke-linejoin="bevel"
+           d="m 5886.2459,4116.6677 c 89.419,-149.2693 299.9824,-85.9806 331.8201,-8.3266" />
+        <path
+           id="path293180"
+           fill="none"
+           stroke="#000000"
+           stroke-width="25.3214"
+           stroke-linecap="round"
+           stroke-linejoin="bevel"
+           d="m 5952.3535,4469.7823 c 54.9372,-82.5591 182.3617,-46.2555 201.3098,-2.8963" />
+      </g>
+      <text
+         id="text293186"
+         krita:useRichText="true"
+         transform="matrix(0.97707556,0,0,1.0234623,-4392.0833,-410.10417)"
+         fill="#000000"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         font-family="'8514oem'"
+         font-size="445.465px"
+         font-size-adjust="1"
+         font-stretch="normal"
+         letter-spacing="0"
+         word-spacing="0"
+         x="4533.3457"
+         y="2021.0957"><tspan
+           x="4533.3457"
+           id="tspan293184"
+           style="stroke-width:0">W/R</tspan></text>
+    </g>
+    <g
+       id="use222480"
+       transform="translate(-172.5159,3720.002)">
+      <path
+         id="path287552"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.1802"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 1341.2559,58.362538 c 98.6094,82.516202 203.2693,43.965402 331.3867,55.905402 97.6344,0.6225 293.0842,-3.6273 352.7274,-47.797002 52.184,-52.4356 -71.9771,175.875992 -142.3203,288.009392 -26.0007,50.846 -384.3504,38.6783 -412.5775,-6.8523 -53.2845,-59.1157 -183.727,-350.300892 -129.2163,-289.265492 z"
+         transform="translate(3135.3125,833.4375)" />
+      <path
+         id="path287554"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.1802"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 1357.1086,122.52244 c 4.0338,-3.0231 60.1344,25.3192 66.2266,29.3614 10.5139,6.9762 17.8779,20.1817 25.8789,25.6959 9.0232,6.2188 12.1334,-29.8845 23.342,-25.1919 68.4397,28.6527 304.1895,9.9037 398.5916,9.875 12.5724,4.8973 7.2563,14.3319 29.957,25.732 0.9894,-3.9571 12.344,-20.698 25.4746,-32.4205 16.7198,-4.9535 67.9008,-25.5483 77.9022,-27.5531"
+         transform="translate(3135.3125,833.4375)" />
+      <path
+         id="path287556"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.1802"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 1306.3946,66.818238 c -2.0566,-18.379 59.4144,-37.9101 40.7907,-37.9101"
+         transform="translate(3135.3125,833.4375)" />
+      <path
+         id="path287558"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.1802"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 2061.7721,64.284638 c 2.0567,-18.379 -59.4144,-37.9101 -40.7907,-37.9101"
+         transform="translate(3135.3125,833.4375)" />
+      <path
+         id="path287560"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.1802"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         d="m 1487.737,351.60213 c 108.0719,-86.1041 188.0684,-93.5836 241.194,-163.09959 76.0727,-59.9124 128.5387,-30.3437 130.7865,24.3533 8.7566,71.41019 -21.3713,91.79619 -91.7541,163.56629"
+         transform="translate(3135.3125,833.4375)" />
+      <path
+         id="path287562"
+         fill="none"
+         stroke="#000000"
+         stroke-width="16.1802"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         d="m 1650.7875,381.98193 c 55.4246,-19.3863 182.9923,-142.2062 128.8995,-119.4109"
+         transform="translate(3135.3125,833.4375)" />
+      <text
+         id="text287566"
+         krita:useRichText="true"
+         transform="matrix(1.0035534,0,0,0.99645918,3135.3125,833.4375)"
+         fill="#000000"
+         stroke="#000000"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         font-family="'8514oem'"
+         font-size="532.434px"
+         font-size-adjust="1"
+         font-stretch="normal"
+         letter-spacing="0"
+         word-spacing="0"
+         x="1273.9003"
+         y="-34.713783"><tspan
+           x="1273.9003"
+           id="tspan287564"
+           style="stroke-width:0">L/N</tspan></text>
+    </g>
+    <text
+       id="text172574"
+       krita:useRichText="true"
+       transform="scale(1.277647,0.78268881)"
+       fill="#000000"
+       stroke="#000000"
+       stroke-opacity="0"
+       stroke-width="0"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       font-family="'8514oem'"
+       font-size="435.112px"
+       font-size-adjust="1"
+       font-stretch="normal"
+       letter-spacing="0"
+       word-spacing="0"
+       x="3214.7949"
+       y="-2747.6484"><tspan
+         x="3214.7949"
+         id="tspan172572"
+         style="stroke-width:0">U/Q</tspan></text>
+    <use
+       xlink:href="#U_Q"
+       id="use286542" />
+    <text
+       id="shape40"
+       krita:useRichText="true"
+       transform="scale(1.0035534,0.99645918)"
+       fill="#000000"
+       stroke="#000000"
+       stroke-opacity="0"
+       stroke-width="0"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       font-family="'8514oem'"
+       font-size="532.434px"
+       font-size-adjust="1"
+       font-stretch="normal"
+       letter-spacing="0"
+       word-spacing="0"
+       x="4398.1113"
+       y="801.68524"><tspan
+         x="4398.1113"
+         id="tspan172564"
+         style="stroke-width:0">L/N</tspan></text>
+    <use
+       xlink:href="#L_N"
+       id="use288760"
+       transform="translate(-6.6145833,69.453125)" />
+    <text
+       id="text172526"
+       krita:useRichText="true"
+       transform="scale(0.97707556,1.0234623)"
+       fill="#000000"
+       stroke="#000000"
+       stroke-opacity="0"
+       stroke-width="0"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       font-family="'8514oem'"
+       font-size="445.465px"
+       font-size-adjust="1"
+       font-stretch="normal"
+       letter-spacing="0"
+       word-spacing="0"
+       x="38.214027"
+       y="1620.3929"><tspan
+         x="38.214027"
+         id="tspan172524"
+         style="stroke-width:0">W/R</tspan></text>
+    <use
+       xlink:href="#W_R"
+       id="use293995"
+       transform="translate(-4392.0833,-410.10417)" />
+  </g>
+</svg>
